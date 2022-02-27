@@ -1,0 +1,70 @@
+.add-new-task {
+  .add-new-task-inner {
+    cursor: pointer;
+    padding: 4px 8px;
+    font-size: 14px;
+    border-radius: 3px;
+    &:hover {
+      background-color: #091e4214;
+      color: #172b4d;
+    }
+    &::before {
+      font-family: Trello;
+      content: "\e901";
+      padding: 3px;
+      font-size: 16px;
+    }
+  }
+  .new-card-form {
+    padding: 6px 8px;
+    border-radius: 3px;
+    max-height: 100%;
+    font-family: Trello;
+    textarea {
+      margin-bottom: 8px;
+      padding: 6px 8px 2px;
+      width: 100%;
+      max-height: 102px;
+      min-height: 66px;
+      box-shadow: 0 1px 0 #091e4240;
+      border-radius: 3px;
+      outline: none;
+      border: none;
+      overflow: hidden;
+      overflow-wrap: break-word;
+      resize: none;
+    }
+    .add-card-control {
+      display: flex;
+      align-items: center;
+      button {
+        padding: 6px 12px;
+        margin-right: 4px;
+        background-color: #0079bf;
+        font-size: 14px;
+        color: $clr5;
+        border-radius: 3px;
+        border: none;
+        box-shadow: none;
+        transition-duration: 85ms;
+        transition-timing-function: ease;
+        &:hover {
+          background-color: #026aa7;
+        }
+      }
+      .add-card-close-icon {
+        height: 32px;
+        width: 32px;
+        position: relative;
+        &::before {
+          content: "\e91b";
+          font-size: 25px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+        }
+      }
+    }
+  }
+}

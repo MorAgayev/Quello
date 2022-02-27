@@ -1,0 +1,49 @@
+.media-preview-container {
+  position: absolute;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  // padding: 10vh 10vw;
+  background-color: rgba(0, 0, 0, 0.7);
+  > img {
+    position: fixed;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    width: max-content;
+    max-width: 90vw;
+    height: max-content;
+    max-height: 90vh;
+    border-radius: 3px;
+    object-fit: contain;
+  }
+  > .browser {
+    position: fixed;
+    width: 90vw;
+    height: 90vh;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    > .browser-container {
+      height: 100%;
+      width: 100%;
+      position: relative;
+      > button {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+      }
+      > iframe {
+        border: 0;
+        border-radius: 3px;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}

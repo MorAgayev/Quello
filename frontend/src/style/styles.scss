@@ -1,0 +1,44 @@
+// SETUP
+@import "setup/typography";
+@import "setup/variables";
+@import "setup/mixins";
+@import "setup/functions";
+
+// BASICS
+@import "basics/helpers";
+@import "basics/base";
+@import "basics/layout";
+
+// COMPONENTS
+
+@import "./components/board.scss";
+@import "./components/header";
+@import "./components/draggable.scss";
+@import "./components/card-preview";
+@import "./components/create";
+@import "./components/card-details";
+@import "./components/media-preview";
+@import "./components/board-list";
+@import "./components/login";
+@import "./components/card-add";
+@import "./components/list-add";
+@import "./components/attachments";
+@import "./components/msg-modal";
+@import "./components/checklist";
+@import "./components//home-page";
+@import "./components/actions";
+@import "./components/combo";
+@import "./components/card-activity";
+@import "./components/item-descrioption";
+@import "./components/board-nav";
+@import "./components/popup/board-modal/board-modal";
+@import "./components/popup/board-modal/invite-modal";
+@import "./components/popup/board-modal/filter-modal";
+@import "./components/card-preview";
+@import "./components/create";
+@import "./components/item-location";
+@import "./components/popup/board-modal/menu-modal";
+@import "./components/edit-card-menu";
+@import "./components/mention";
+@import "./components/notification/notification";
+@import "./components/dashboard";

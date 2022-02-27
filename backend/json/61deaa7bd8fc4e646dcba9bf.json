@@ -1,0 +1,1096 @@
+{
+  "_id": "61deaa7bd8fc4e646dcba9bf",
+  "title": "Daily Tasks Planner",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxEYWlseSUyMFRhc2tzJTIwUGxhbm5lcnxlbnwwfHx8fDE2NDIyNzc3NTE&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1513128034602-7814ccaddd4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxEYWlseSUyMFRhc2tzJTIwUGxhbm5lcnxlbnwwfHx8fDE2NDIyNzc3NTE&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": false,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4d801c1d9389a63a75587",
+    "username": "zivtal",
+    "fullname": "Ziv Tal",
+    "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+  },
+  "members": [
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+    },
+    {
+      "_id": "61b4d0d05cda39ade9f822c7",
+      "username": "MorAgayev",
+      "fullname": "Mor Agayev",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg",
+      "createdAt": "2021-12-11T16:24:48.000Z"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null,
+      "createdAt": "2021-12-11T16:17:28.000Z"
+    }
+  ],
+  "activities": [],
+  "createdAt": 1641762707809.0,
+  "labels": [
+    {
+      "title": "Manager task",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Low priority",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Medium priority",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "High priority",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Bug",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "Adjustment",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    },
+    {
+      "title": "All",
+      "color": "#ff78cb",
+      "id": "kT8v8m"
+    },
+    {
+      "title": "styles",
+      "color": "#b3bac5",
+      "id": "AYKlTC"
+    }
+  ],
+  "lists": [
+    {
+      "id": "bJLW6Er0",
+      "title": "Daily Tasks",
+      "cards": [
+        {
+          "createdAt": 1641762727785.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Wake Up at 7:00 AM",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#bda598",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "7MtGXLSn",
+                "url": "https://images.unsplash.com/photo-1518057111178-44a106bad636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxtb3JuaW5nfGVufDB8fHx8MTY0MTc2Mjc0Mw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "7MtGXLSn"
+          },
+          "archiveAt": 0,
+          "id": "M61R1Cr6"
+        },
+        {
+          "createdAt": 1641762772975.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Task1",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "GsKNL7B3"
+        },
+        {
+          "createdAt": 1641762777923.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Task2",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "vg6RHbSr"
+        },
+        {
+          "createdAt": 1641762784707.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Task3",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "exqBhkV7"
+        },
+        {
+          "createdAt": 1641762796342.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Review Calendar Appointments - Today & Tomorrow",
+          "desc": "",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#c7c8cd",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "3UyveGTl",
+                "url": "https://images.unsplash.com/photo-1617106400392-b53e003bfc35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxjYWxlbmRlcnxlbnwwfHx8fDE2NDE3NjI4MTQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "3UyveGTl"
+          },
+          "archiveAt": 0,
+          "id": "43F9JmU2"
+        }
+      ],
+      "style": {}
+    },
+    {
+      "title": "Personal",
+      "cards": [
+        {
+          "createdAt": 1641763216623.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "SUNDAY",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#9fd0d1",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "uTZkx2OT"
+        },
+        {
+          "createdAt": 1641762923427.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "MONDEY",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Checklist",
+              "items": [
+                {
+                  "title": "Task4",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Task5",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "3hoyjnSM"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#eb5a46",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "EjHm0cyK"
+        },
+        {
+          "createdAt": 1641762975949.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "TUESDAY",
+          "desc": "Interview",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": 1640700000000.0,
+            "isComplete": true,
+            "createdAt": 1641763136102.0,
+            "completedAt": 1641763136102.0
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "HaBonim St 4, Ramat Gan, Israel",
+              "shortAddress": "4"
+            },
+            "lat": 32.087892,
+            "lng": 34.8030563,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.087892,34.8030563&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.087892,34.8030563&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#947561",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "4hxID3gu",
+                "url": "https://images.unsplash.com/photo-1598087495082-15d7dd26cf53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw1fHxUZWwlMjBhdml2fGVufDB8fHx8MTY0MTc2MzU0NQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "4hxID3gu"
+          },
+          "archiveAt": 0,
+          "id": "TTLVIboT"
+        },
+        {
+          "createdAt": 1641763057576.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "WEDNESDAY",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Checklist",
+              "items": [
+                {
+                  "title": "Task6",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Task7",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Task8",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "Ro7fs8VE"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#f2d600",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "JOZgl3fz"
+        },
+        {
+          "createdAt": 1641763146151.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "THURSDAY",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Checklist",
+              "items": [
+                {
+                  "title": "Task9",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Task10",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "r4uTpx0Q"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#d29034",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "xGIplLQq"
+        },
+        {
+          "createdAt": 1641763168847.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "FRIDAY",
+          "desc": "",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "purple",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 1641763603175.0,
+          "id": "S3c6IjSz"
+        }
+      ],
+      "style": {},
+      "id": "3Af2Qfj6"
+    },
+    {
+      "title": "Shopping",
+      "cards": [
+        {
+          "createdAt": 1641763340913.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Supermarket",
+          "desc": "",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Shopping list",
+              "items": [
+                {
+                  "title": "1 (4-7 lb.) beef shoulder roast or french roast from Grow & Behold",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "3 pounds baby red bliss potatoes, halved",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "olive oil",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 head garlic, mashed",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "2 pound green beans, trimmed and cut into 2-inch pieces",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "I0LejtLi"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#001505",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "0vrV6f7k",
+                "url": "https://images.unsplash.com/photo-1628102491629-778571d893a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxzdXBlcm1hcmtldHxlbnwwfHx8fDE2NDE3NjMzNTU&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "0vrV6f7k"
+          },
+          "archiveAt": 0,
+          "id": "zIvLGtic"
+        }
+      ],
+      "style": {},
+      "id": "pxTzX3ts"
+    },
+    {
+      "title": "Cooking",
+      "cards": [
+        {
+          "createdAt": 1641763680764.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "SHOULDER ROAST WITH GARLIC AND HERBS",
+          "desc": "This kosher beef Shoulder Roast recipe can also be used for Delmonico Roast, French Roast or Rib Roast. The herbs do double duty -- flavoring the meat, then building an incredible pan sauce to serve with the meat. [Source](https://jamiegeller.com/recipes/shoulder-roast-with-garlic-and-herbs/)\n\nServe this roast with [HERB-ROASTED RED BLISS POTATOES](https://jamiegeller.com/recipes/herb-roasted-red-bliss-potatoes/) and [GREEN BEAN AND THREE ONION SAUTE](https://jamiegeller.com/recipes/green-bean-and-three-onion-saute/).\n\nThis is a meal fit to impress, but easy enough for a beginner cook.  \n\nRelated:\n<<ol:7 Roasts That Freeze Well||Perfect French Bistro Style Steak>>\n\n###**What is a Shoulder Roast good for? **\n\nThe shoulder roast is sometimes called a silver tip roast and usually comes netted. Best to cook this roast either braised low and slow, or dry roast to rare. Tent with foil and let rest for 10-15 minutes before slicing and serving. For deli-style Roast Beef, cool before slicing thin.\n\n###**PREPARATION**\n<<ol:Mix all Garlic Herb Rub ingredients together and rub all over the shoulder roast. Refrigerate 4-6 hours.\n||When you are ready to cook, let the roast come to room temperature before browning. Scrape off herbs and garlic from the roast into a little dish and set aside.\n||Preheat oven to 250°F.  \n||Heat 2-3 tablespoons olive oil in a large skillet or Dutch oven. Place the roast in the pan and cook, undisturbed, 3-4 minutes. Rotate until all sides of the roast are nicely browned (you can do this in a 450°F degree oven, but the sear is much better on the stove top.) Transfer the roast to a roasting pan and put in the oven.\n||Allow 20 minutes per pound, or cook until roast is medium-rare.\n||Allow roast to rest under a loose tent of aluminum foil at least 10 minutes before carving.\n||Remove roast from the Dutch oven and transfer to stove top. Add more olive oil if necessary. Add herb garlic mixture and cook over low heat until garlic is fully caramelized and crispy. It’s ok if some of it starts to stick to the pan, but be sure to remove the garlic and herbs before they burn.\n||Deglaze the pan with red wine, scraping up the bits on the bottom as the wine simmers.\n||Mix cornstarch with warm water until dissolved. Add to wine, along with broth/water. Bring to a boil, then reduce heat. Return garlic and herb bits to the pan and simmer to reduce to desired thickness.\n||Slice roast and serve with pan sauce. >>",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "INGREDIENTS",
+              "items": [
+                {
+                  "title": "2 cups chopped fresh herbs (such as rosemary, parsley, basil, thyme)",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 head garlic, mashed",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "½ cup olive oil",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 teaspoon salt",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 tablespoons freshly ground black pepper",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 (4-7 lb.) beef shoulder roast or french roast from Grow & Behold",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "WQ2pLwZa"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641979939505.0,
+              "url": "https://jamiegeller.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTY1NTI0NzgzMjAxOTg2MDg2/tip3---ribroastjpg.webp",
+              "fileName": "tip3---ribroastjpg.webp",
+              "type": "image",
+              "suffix": "webp",
+              "id": "9pBXXghn"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#b45044",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "6IZHEaLh",
+                "url": "https://jamiegeller.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1240/MTY1NTI0NzgzMjAxOTg2MDg2/tip3---ribroastjpg.webp"
+              }
+            ],
+            "imgId": "6IZHEaLh"
+          },
+          "archiveAt": 0,
+          "id": "7ZwDgMks",
+          "undefined": null
+        },
+        {
+          "createdAt": 1641980323834.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "HERB-ROASTED RED BLISS POTATOES",
+          "desc": "You may have already noticed by now that I love all things mini. In [potatoes](https://jamiegeller.com/recipes/potato-kugel-cups/), that means baby red bliss, fingerlings and the small white variety sometimes sold as \"creamers.\" Use any combination of mini potatoes for this recipe. [Source](https://jamiegeller.com/recipes/herb-roasted-red-bliss-potatoes/)\n\n###**PREPARATION**\n<<ol:Preheat oven to 400 degrees F. Spray 2 9 x 13-inch pans with non-stick cooking spray.\n||Divide potatoes evenly between the 2 prepared pans and drizzle with olive oil. Toss to coat.\n||In a small bowl, mix parsley, onion and garlic powders, oregano, salt and pepper. Sprinkle over potatoes and toss to distribute evenly.\n||Roast, uncovered, at 400 degrees for 30 to 40 minutes or until potatoes are soft inside and crisp and golden brown outside.\n||Serve hot.>>",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "INGREDIENTS",
+              "items": [
+                {
+                  "title": "3 pounds baby red bliss potatoes, halved",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1/2 cup olive oil",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "2 tablespoons dried parsley flakes (or 4 tablespoons fresh minced parsley)",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "2 tablespoons onion powder",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 tablespoon garlic powder (or 2 tablespoons prepared crushed garlic)",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1-1/2 teaspoons crumbled, dried oregano",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1-1/2 teaspoons kosher salt",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 teaspoon coarse black pepper",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "yaM7r0ky"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641980555271.0,
+              "url": "https://jamiegeller.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_647/MTY1NTI0ODU0ODczMTM4NzI2/herb-roasted-red-potatoes-blog.webp",
+              "fileName": "herb-roasted-red-potatoes-blog.webp",
+              "type": "image",
+              "suffix": "webp",
+              "id": "OS3wHwWH"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#824808",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "SDa9fH73",
+                "url": "https://jamiegeller.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_647/MTY1NTI0ODU0ODczMTM4NzI2/herb-roasted-red-potatoes-blog.webp"
+              }
+            ],
+            "imgId": "SDa9fH73"
+          },
+          "archiveAt": 0,
+          "id": "iUyA1gNO"
+        },
+        {
+          "createdAt": 1641763928839.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "GREEN BEAN AND THREE ONION SAUTE",
+          "desc": "###**PREPARATION**\nHeat oil in a large sauté pan over medium high heat. Add shallots, onions and garlic and sauté 6 to 10 minutes or until softened and lightly browned, stirring every few minutes. Add green beans and 1/3 cup water and cover. Cook 10 minutes or until beans are crisp and water has evaporated. Stir in red pepper flakes, salt and pepper and transfer to a serving bowl. [Source](https://jamiegeller.com/recipes/green-bean-and-three-onion-saute/)",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "INGREDIENTS",
+              "items": [
+                {
+                  "title": "3 tablespoon olive oil",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "2 large shallots, peeled and sliced",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 large red onion, peeled, halved and sliced",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1 large Spanish onion, peeled, halved and sliced",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "4 cloves garlic, chopped",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "2 pound green beans, trimmed and cut into 2-inch pieces",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1/2 teaspoon red pepper flakes",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "1/2 teaspoon kosher salt",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Freshly ground black pepper",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "pjfTDbl8"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641980975194.0,
+              "url": "https://jamiegeller.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_647/MTY1NTI0Nzk3MTU3NDE4MDEx/green-bean-three-onion-saute.webp",
+              "fileName": "green-bean-three-onion-saute.webp",
+              "type": "image",
+              "suffix": "webp",
+              "id": "UwSI8BSK"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#dfeada",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "2txOGdNz",
+                "url": "https://jamiegeller.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_647/MTY1NTI0Nzk3MTU3NDE4MDEx/green-bean-three-onion-saute.webp"
+              }
+            ],
+            "imgId": "2txOGdNz"
+          },
+          "archiveAt": 0,
+          "id": "amtKEcKA"
+        }
+      ],
+      "style": {},
+      "id": "dNUwLG5g"
+    }
+  ],
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "activityCount": 1,
+  "lastActivity": 1642358986167.0,
+  "isFavorite": false
+}

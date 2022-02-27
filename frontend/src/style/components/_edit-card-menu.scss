@@ -1,0 +1,41 @@
+// .quick-card-editor {
+//   position: fixed;
+//   bottom: 0;
+//   right: 0;
+//   top: 0;
+//   left: 0;
+//   z-index: 10;
+//   background-color: #0009;
+//   color: $clr5;
+
+//   .close-icon {
+//     position: absolute;
+//     right: 0;
+//     top: 0;
+//     padding: 9px;
+//   }
+
+//   .content {
+//     display: flex;
+//     position: absolute;
+
+//     .btns {
+//       margin-inline-start: 6px;
+//       display: flex;
+//       flex-direction: column;
+//       > * {
+//         text-decoration: none;
+//         background-color: #0009;
+//         color: #e6e6e6;
+//         padding: 6px 12px 6px 8px;
+//         margin: 0 0 4px 1px;
+//         border-radius: 3px;
+//         &:hover {
+//           background: #000c;
+//           color: #fff;
+//           transform: translateX(5px);
+//         }
+//       }
+//     }
+//   }
+// }

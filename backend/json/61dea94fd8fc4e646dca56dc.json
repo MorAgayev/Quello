@@ -1,0 +1,1255 @@
+{
+  "_id": "61dea94fd8fc4e646dca56dc",
+  "title": "Trello clone project",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxjb2Rpbmd8ZW58MHx8fHwxNjQyMzU4NjIz&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxjb2Rpbmd8ZW58MHx8fHwxNjQyMzU4NjIz&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": true,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4d801c1d9389a63a75587",
+    "username": "zivtal",
+    "fullname": "Ziv Tal",
+    "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg",
+    "createdAt": "2021-12-11T16:55:29.000Z"
+  },
+  "members": [
+    {
+      "_id": "61b4770c7b8e935e82f30212",
+      "username": "amirinbar",
+      "fullname": "Amir Inbar",
+      "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+      "createdAt": "2021-12-11T10:01:48.000Z"
+    },
+    {
+      "_id": "61b4d0d05cda39ade9f822c7",
+      "username": "moragayev",
+      "fullname": "Mor Agayev",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg",
+      "createdAt": "2021-12-11T16:24:48.000Z"
+    },
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg",
+      "createdAt": "2021-12-11T16:55:29.000Z"
+    },
+    {
+      "_id": "61b8481ee959b6643ad17569",
+      "username": "matancrispel",
+      "fullname": "Matan Crispel",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639467209/g87ufbz7qs9wlrcxrpln.jpg",
+      "createdAt": "2021-12-14T07:30:38.000Z"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null,
+      "createdAt": "2021-12-11T16:17:28.000Z"
+    }
+  ],
+  "activities": [],
+  "createdAt": 1639247748316.0,
+  "labels": [
+    {
+      "title": "Manager task",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Low priority",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Medium priority",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "High priority",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Bug",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "Adjustment",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    },
+    {
+      "title": "Design",
+      "color": "#ff78cb",
+      "id": "kT8v8m"
+    },
+    {
+      "title": "Styles",
+      "color": "#b3bac5",
+      "id": "AYKlTC"
+    }
+  ],
+  "lists": [
+    {
+      "title": "Front-End",
+      "cards": [
+        {
+          "createdAt": 1642328213592.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "New features for due date",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp", "rZnFvJ", "oKpZV4"],
+          "checkList": [
+            {
+              "title": "Todo",
+              "items": [
+                {
+                  "title": "Option to remove due date from card and from todo item",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Preivew for due date on todo item",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "JkomeOX3"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#9fd0d1",
+            "size": "",
+            "imgs": [
+              {
+                "id": "ePdpHSIN",
+                "url": "https://images.unsplash.com/photo-1540921181925-b9726bc32384?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxkdWUlMjBkYXRlfGVufDB8fHx8MTY0MjMyODI5Nw&ixlib=rb-1.2.1&q=80&w=400"
+              },
+              {
+                "id": "TglU625d",
+                "url": "https://images.unsplash.com/photo-1525280784898-86fc8963da25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxkdWUlMjBkYXRlfGVufDB8fHx8MTY0MjMyODI5Nw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": null,
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "Ubli7ETr"
+        },
+        {
+          "createdAt": 1639249054474.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "New features for attachments",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["YIQPhe", "rZnFvJ"],
+          "checkList": [
+            {
+              "title": "Todo",
+              "items": [
+                {
+                  "title": "Add preview for attachments",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Add voice recording for attachments",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Add video recording for attachments",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "7YpK7ULs"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#262425",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "6sziwWlt",
+                "url": "https://images.unsplash.com/photo-1589532768434-a92c95dad7cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxjb21wdXRlciUyMGZpbGVzfGVufDB8fHx8MTY0MjMyODM2NQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "6sziwWlt"
+          },
+          "archiveAt": 0,
+          "id": "e6VpzKGC"
+        },
+        {
+          "createdAt": 1639248247543.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Check out pre-release version",
+          "desc": "Don't forget to update the task when finish",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Thing to check",
+              "items": [
+                {
+                  "title": "Socket communication",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Card archive",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Add location",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Attachment upload to cloudinary",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "Y8QLZ8DP"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1639482398169.0,
+              "url": "http://res.cloudinary.com/zivtal/image/upload/v1639482397/Qwello_LOGO_ukvzty.png",
+              "fileName": "Qwello LOGO",
+              "type": "image",
+              "suffix": "png",
+              "id": "19C07xy7"
+            }
+          ],
+          "location": {},
+          "canvas": [],
+          "cover": {
+            "color": "#0e3872",
+            "isFull": false,
+            "imgs": [
+              {
+                "id": "O6aFzasj",
+                "url": "http://res.cloudinary.com/zivtal/image/upload/v1639482397/Qwello_LOGO_ukvzty.png"
+              }
+            ],
+            "imgId": "O6aFzasj"
+          },
+          "archiveAt": 1639393487478.0,
+          "id": "0Am6Bi1k"
+        },
+        {
+          "createdAt": 1642327531146.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "New features for card comments",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["d6cjhb", "rZnFvJ"],
+          "checkList": [
+            {
+              "title": "Todo",
+              "items": [
+                {
+                  "title": "Add voice recording for comments",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Add attachment assign and preview from comments",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "EWLO0721"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#4f5052",
+            "size": "",
+            "imgs": [
+              {
+                "id": "rm17Ybz4",
+                "url": "https://images.unsplash.com/photo-1572231754710-4bed19649091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxjb21tZW50c3xlbnwwfHx8fDE2NDIzMjc3OTY&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "rm17Ybz4",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "pJ1xygJs"
+        }
+      ],
+      "style": {},
+      "id": "WFXA0YJ5"
+    },
+    {
+      "title": "Back-End",
+      "cards": [
+        {
+          "createdAt": 1639248166598.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Node.js live\n",
+          "desc": "<<youtube:TlB_eWDSMt4>>\n\n**Node.js** is an [open-source](https://en.wikipedia.org/wiki/Open-source_software), [cross-platform](https://en.wikipedia.org/wiki/Cross-platform), back-end JavaScript [runtime environment](https://en.wikipedia.org/wiki/Runtime_system) that runs on the V8 engine and executes JavaScript code outside a [web browser](https://en.wikipedia.org/wiki/Web_browser). Node.js lets developers use JavaScript to write command line tools and for [server-side scripting](https://en.wikipedia.org/wiki/Server-side_scripting) - running scripts server-side to produce [dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page) content before the page is sent to the user's web browser. Consequently, Node.js represents a \"JavaScript everywhere\" paradigm, unifying [web-application](https://en.wikipedia.org/wiki/Web_application) development around a single programming language, rather than different languages for server-side and client-side scripts.\n\nThough .js is the standard [filename extension](https://en.wikipedia.org/wiki/Filename_extension) for JavaScript code, the name \"Node.js\" does not refer to a particular file in this context and is merely the name of the product. Node.js has an [event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture) capable of [asynchronous I/O](https://en.wikipedia.org/wiki/Asynchronous_I/O). These design choices aim to optimize [throughput](https://en.wikipedia.org/wiki/Throughput) and [scalability](https://en.wikipedia.org/wiki/Scalability) in web applications with many input/output operations, as well as for [real-time Web](https://en.wikipedia.org/wiki/Real-time_Web) applications (e.g., [real-time communication](https://en.wikipedia.org/wiki/Real-time_communication) programs and [browser games](https://en.wikipedia.org/wiki/Browser_game)).\n\nThe Node.js [distributed development](https://en.wikipedia.org/wiki/Distributed_development) project was previously governed by the Node.js Foundation, and has now merged with the [JS Foundation](https://en.wikipedia.org/wiki/JS_Foundation) to form the [OpenJS Foundation](https://en.wikipedia.org/wiki/OpenJS_Foundation), which is facilitated by the [Linux Foundation](https://en.wikipedia.org/wiki/Linux_Foundation)'s Collaborative Projects program.",
+          "members": [
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg",
+              "createdAt": "2021-12-11T16:55:29.000Z"
+            }
+          ],
+          "labelsIds": ["DNfXVp", "rZnFvJ"],
+          "checkList": [
+            {
+              "title": "Workflow",
+              "items": [
+                {
+                  "title": "User auth",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Socket communication",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Board sorting",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "mT1DwrHa"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#121212",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "Yx5cJOyw",
+                "url": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxub2RlanN8ZW58MHx8fHwxNjQxNzMzNTk2&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "Yx5cJOyw"
+          },
+          "archiveAt": 0,
+          "id": "5nyK7wsd"
+        },
+        {
+          "createdAt": 1639420511059.0,
+          "createdBy": {
+            "_id": "61b4d0d05cda39ade9f822c7",
+            "username": "MorAgayev",
+            "fullname": "Mor Agayev",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg"
+          },
+          "title": "Bug in backend filter",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#d680d6",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 1642328129985.0,
+          "id": "pjg2Fr7V"
+        },
+        {
+          "createdAt": 1639390156520.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Setting sockets and middlewares for users",
+          "desc": "",
+          "members": [
+            {
+              "_id": "61b4770c7b8e935e82f30212",
+              "username": "amirinbar",
+              "fullname": "Amir Inbar",
+              "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+            },
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg",
+              "createdAt": "2021-12-11T16:55:29.000Z"
+            }
+          ],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "backend features",
+              "items": [
+                {
+                  "title": "board premission",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "auth premission",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "auto restore demo boards",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "sb0Z1p0z"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#9298b0",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "xdnIAgwE",
+                "url": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxiYWNrZW5kfGVufDB8fHx8MTY0MjMyODE5NQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "xdnIAgwE"
+          },
+          "archiveAt": 0,
+          "id": "u1WT52zZ"
+        },
+        {
+          "createdAt": 1639419965040.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Load boards for preview",
+          "desc": "While send axios request load boards by user and return aggregation for preview only (include style, members, tags).",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#61bd4f",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "2eyucTKr"
+        }
+      ],
+      "style": {},
+      "id": "lBoxg0Cy"
+    },
+    {
+      "title": "QA",
+      "cards": [
+        {
+          "createdAt": 1642328579429.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Preformence user experience",
+          "desc": "Update board after change and then send axios request for server, if failed restore change.",
+          "members": [],
+          "labelsIds": ["DNfXVp", "rZnFvJ"],
+          "checkList": [],
+          "dueDate": {
+            "date": 1642442400000.0,
+            "isComplete": true,
+            "createdAt": 1642577863732.0,
+            "completedAt": 1642577863732.0
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#b69f8d",
+            "size": "",
+            "imgs": [
+              {
+                "id": "Je2iF04s",
+                "url": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHx1eHxlbnwwfHx8fDE2NDIzMjg2NTc&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "Je2iF04s",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "3kAxCH9Q"
+        },
+        {
+          "createdAt": 1639420464863.0,
+          "createdBy": {
+            "_id": "61b4d0d05cda39ade9f822c7",
+            "username": "MorAgayev",
+            "fullname": "Mor Agayev",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg"
+          },
+          "title": "Popover dynamic cmp",
+          "desc": "Check popup position",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#d29034",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 1642577879457.0,
+          "id": "kis17mxz"
+        },
+        {
+          "createdAt": 1639248652868.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Testing new features",
+          "desc": "Don't forget to update the checklist when finish",
+          "members": [],
+          "labelsIds": ["oKpZV4"],
+          "checkList": [
+            {
+              "title": "Checklist",
+              "items": [
+                {
+                  "title": "Test dashboard design",
+                  "isDone": true,
+                  "dueDate": {
+                    "date": 1639087200000.0,
+                    "createdAt": 1639394226003.0
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Test drag and drop",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Test sockets in backend",
+                  "isDone": true,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "JPgllfEn"
+            }
+          ],
+          "dueDate": {
+            "date": 1639368000000.0,
+            "isComplete": true,
+            "createdAt": 1639249846632.0,
+            "completedAt": 1639249846632.0
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "5gd6cReB"
+        },
+        {
+          "createdAt": 1639420546328.0,
+          "createdBy": {
+            "_id": "61b4d0d05cda39ade9f822c7",
+            "username": "MorAgayev",
+            "fullname": "Mor Agayev",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg"
+          },
+          "title": "Test algorithm",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [
+            {
+              "title": "Texts list",
+              "items": [
+                {
+                  "title": "filter",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "sort",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "qszFDicD"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 1642327966068.0,
+          "id": "fzxoFRuz"
+        },
+        {
+          "createdAt": 1639420703596.0,
+          "createdBy": {
+            "_id": "61b4d0d05cda39ade9f822c7",
+            "username": "MorAgayev",
+            "fullname": "Mor Agayev",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg"
+          },
+          "title": "Login cmp with google login",
+          "desc": "###Configure Google OAuth\n\nBefore we get started, we have to make sure Google is properly configured for your new app. Visit the Google API Console to obtain OAuth 2.0 credentials such as a Client ID and Client Secret that are known to both Google and our application.\n\n<<ul:Log into the [Google Developer Console](https://console.developers.google.com/)\n||Click the **Select a Project** dropdown and select **New Project**\n||Give it a project name that you want, I picked **Google-oauth2**\n||Once the project is created (takes a few seconds), use the project selector again and pick your new project\n<<img:https://miro.medium.com/max/1050/1*tAjgToruTi_qaLL4GroW2w.png>>\n||Now you have to add available APIs. Select and open **Library** in the left menu.\n||Open and Enable **Google+ API** and **Google Analytics API**\n<<img:https://miro.medium.com/max/1050/1*CVDuuxuaGDjfkPbZaFlnZg.png>>\n<<img:https://miro.medium.com/max/1050/1*-p7elWqDK2z7XRJPaYZVsQ.png>>\n||Go to the **Credentials** tab, click on the **Create Credentials** popup and select **OAuth client ID** — Google also offers a wizard to help you make this decision if you’d like to use Google Auth in a different context\n<<img:https://miro.medium.com/max/1500/1*5USTTvQ3LC4gGJbAoGr7iA.png>>\n||The API Dashboard opens, click **Credentials** on the left Nav and switch to the **OAuth Consent Screen** tab — provide an application name and an optional logo.\n<<img:https://miro.medium.com/max/1500/1*e6EFFaHgoLoZi4Y9hHZNdw.png>>\n||On the next screen select **Web application** as Application type and give it a name\n<<img:https://miro.medium.com/max/1050/1*zGbTYJU12uBiGK5py_395g.png>>\n||Add **http://localhost:8080** into the **Authorized JavaScript** origins and use **http://localhost:8080/callback** for the **Authorized redirect URIs** and click the **Create** button\n<<img:https://miro.medium.com/max/1050/1*SpzGu8scdRdspqhRSu7VtA.png>>\n||Finally you will get a popup containing your **Client ID** and **Client Secret** copy those values, we’ll need them on our code.\n<<img:https://miro.medium.com/max/1050/1*_yWGu6kA5uXv3NNAhY92NA.png>>\n>>",
+          "members": [],
+          "labelsIds": ["YIQPhe"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1639420760347.0,
+              "url": "http://res.cloudinary.com/zivtal/image/upload/v1639420759/Google-Login_ccyhfc.png",
+              "fileName": "Google-Login",
+              "type": "image",
+              "suffix": "png",
+              "id": "RxHDRUY8"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#f4f4f4",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "9EFGlzdw",
+                "url": "https://images.unsplash.com/photo-1553895501-af9e282e7fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw3fHxMb2dpbiUyMGNtcCUyMHdpdGglMjBnb29nbGUlMjBsb2dpbnxlbnwwfHx8fDE2NDIzMjAzNTc&ixlib=rb-1.2.1&q=80&w=400"
+              },
+              {
+                "id": "VAq8NbZ7",
+                "url": "http://res.cloudinary.com/zivtal/image/upload/v1639420759/Google-Login_ccyhfc.png"
+              }
+            ],
+            "imgId": "9EFGlzdw"
+          },
+          "archiveAt": 0,
+          "id": "hYVgoLxW"
+        },
+        {
+          "createdAt": 1639248440648.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": null
+          },
+          "title": "Dashboard analysis",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["YIQPhe", "rZnFvJ", "kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": 1638759600000.0,
+            "isComplete": true,
+            "createdAt": 1639248485123.0,
+            "completedAt": 1639248485123.0
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#f8f6f7",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "iEWDnMV8",
+                "url": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw1fHxkYXNoYm9hcmQlMjBzdGF0fGVufDB8fHx8MTY0MTczMzY0MA&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "iEWDnMV8"
+          },
+          "archiveAt": 0,
+          "id": "qpT6aSU5"
+        },
+        {
+          "createdAt": 1639420915671.0,
+          "createdBy": {
+            "_id": "61b4d0d05cda39ade9f822c7",
+            "username": "MorAgayev",
+            "fullname": "Mor Agayev",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg"
+          },
+          "title": "Board header",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#95d3f5",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 1642327938136.0,
+          "id": "tYVIRrLE"
+        }
+      ],
+      "style": {},
+      "id": "pD1jafP0"
+    },
+    {
+      "title": "Team meeting",
+      "cards": [
+        {
+          "createdAt": 1639476514373.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Approve new design",
+          "desc": "",
+          "members": [
+            {
+              "_id": "61b4d0d05cda39ade9f822c7",
+              "username": "moragayev",
+              "fullname": "Mor Agayev",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg",
+              "createdAt": "2021-12-11T16:24:48.000Z"
+            },
+            {
+              "_id": "61b4770c7b8e935e82f30212",
+              "username": "amirinbar",
+              "fullname": "Amir Inbar",
+              "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+              "createdAt": "2021-12-11T10:01:48.000Z"
+            },
+            {
+              "_id": "61b4d801c1d9389a63a75587",
+              "username": "zivtal",
+              "fullname": "Ziv Tal",
+              "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg",
+              "createdAt": "2021-12-11T16:55:29.000Z"
+            }
+          ],
+          "labelsIds": ["AYKlTC", "kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": 1639483200000.0,
+            "isComplete": false,
+            "createdAt": 1639482483976.0,
+            "completedAt": 1639482483976.0
+          },
+          "attachments": [
+            {
+              "createdAt": 1642328019717.0,
+              "url": "http://res.cloudinary.com/zivtal/image/upload/v1642328018/1200px-Q_magazine_logo.svg_uyfs2e.png",
+              "fileName": "1200px-Q_magazine_logo.svg",
+              "type": "image",
+              "suffix": "png",
+              "id": "JeMg9r2X"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#044fbc",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "oelryLaV",
+                "url": "http://res.cloudinary.com/zivtal/image/upload/v1642328018/1200px-Q_magazine_logo.svg_uyfs2e.png"
+              }
+            ],
+            "imgId": "oelryLaV"
+          },
+          "archiveAt": 0,
+          "id": "FoQdYRrn"
+        },
+        {
+          "createdAt": 1639420567393.0,
+          "createdBy": {
+            "_id": "61b4d0d05cda39ade9f822c7",
+            "username": "MorAgayev",
+            "fullname": "Mor Agayev",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg"
+          },
+          "title": "Status bar for checklist in task details cmp",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#0079bf",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "RkJXaflp"
+        },
+        {
+          "createdAt": 1639251911112.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Board header component with logo and trello design",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#eb5a46",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "i4n2kksT"
+        },
+        {
+          "createdAt": 1639250323587.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "discussing about application workflow",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Checklist",
+              "items": [],
+              "id": "7uvgbZpL"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "MXkc2UPa"
+        },
+        {
+          "createdAt": 1639248346368.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Last meeting before final presentation",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": [],
+          "canvas": [],
+          "cover": {
+            "color": "#61bd4f",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "qu7eXIpa"
+        }
+      ],
+      "style": {},
+      "id": "KOMO5FBa"
+    },
+    {
+      "title": "Done",
+      "cards": [
+        {
+          "createdAt": 1639250340684.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Implement new version",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": 1639594800000.0,
+            "isComplete": false,
+            "createdAt": 1639477266470.0,
+            "completedAt": 1639477266470.0
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Tel Aviv-Yafo, Israel",
+              "shortAddress": "Tel Aviv-Yafo"
+            },
+            "lat": 32.0852999,
+            "lng": 34.7817676,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.0852999,34.78176759999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.0852999,34.78176759999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#537689",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "T5qOsPes",
+                "url": "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxtZWV0aW5nfGVufDB8fHx8MTY0MjAxNzU0Mg&ixlib=rb-1.2.1&q=80&w=400"
+              },
+              {
+                "id": "hVQqtX6h",
+                "url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw5fHxtZWV0aW5nfGVufDB8fHx8MTY0MjAxNzU0Mg&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "T5qOsPes"
+          },
+          "archiveAt": 0,
+          "id": "zdMHRZV7"
+        },
+        {
+          "createdAt": 1639413665674.0,
+          "createdBy": {
+            "_id": "61b4770c7b8e935e82f30212",
+            "username": "amirinbar",
+            "fullname": "Amir Inbar",
+            "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c"
+          },
+          "title": "Handeling Axios activities requests",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": 1639519200000.0,
+            "isComplete": true,
+            "createdAt": 1642327641034.0,
+            "completedAt": 1642327641034.0
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#f2d600",
+            "isFull": true,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "sBELPKlz"
+        }
+      ],
+      "style": {},
+      "id": "6PRu2kFa"
+    }
+  ],
+  "archive": {},
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "isFavorite": true,
+  "activityCount": 6,
+  "lastActivity": 1642577894013.0
+}

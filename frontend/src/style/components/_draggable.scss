@@ -1,0 +1,227 @@
+.draggable-item {
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  display: block;
+  background-color: #fff;
+  outline: 0;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 2px;
+  margin-top: 2px;
+  cursor: default;
+  user-select: none;
+}
+
+.draggable-item-horizontal {
+  height: 300px;
+  padding: 10px;
+  line-height: 100px;
+  text-align: center;
+  display: block;
+  background-color: #fff;
+  outline: 0;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-right: 4px;
+  cursor: default;
+}
+
+.dragging {
+  background-color: yellow;
+}
+
+.card-scene {
+  flex: 1;
+  overflow-x: auto;
+  overflow-y: hidden;
+  height: 75vh;
+  @include for-narrow-layout {
+    height: 90vh;
+    margin: 0;
+  }
+}
+
+.card-container {
+  width: 272px;
+  padding: 4px 4px;
+  margin: 8px 4px 10px 0;
+  background-color: #ebecf0;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 1px rgba(0, 0, 0, 0.24);
+  border-radius: 3px;
+  white-space: normal;
+  max-height: calc(100vh - 200px);
+  @include for-narrow-layout {
+    max-height: calc(100vh - 136px);
+  }
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.card {
+  margin: 0px 0 8px 4px;
+  background-color: #ebecf0;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 1px 1px rgba(0, 0, 0, 0.24);
+  border-radius: 4px;
+  background-color: #fff;
+
+  img {
+    mix-blend-mode: multiply;
+  }
+
+  &:hover {
+    background-color: #f4f5f7;
+    border-bottom-color: #091e4240;
+    cursor: pointer;
+  }
+}
+
+.card-column-header {
+  padding: 0px 8px 4px 8px;
+
+  .list-input {
+    padding: 4px;
+    color: #172b4d;
+    font-family: Roboto-regular;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    min-height: 28px;
+    height: 32px;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    background: transparent;
+    resize: none;
+    overflow: hidden;
+    transition: box-shadow 0.3s;
+
+    &:focus-visible {
+      outline-offset: 0px;
+    }
+
+    &:focus {
+      background-color: $clr5;
+      box-shadow: inset 0 0 0 2px #0079bf;
+    }
+  }
+}
+
+.column-drag-handle-main {
+  cursor: pointer;
+
+  font-size: 1rem;
+  line-height: 20px;
+  height: 30px;
+  width: 30px;
+}
+
+.column-drag-handle-inner {
+  color: #6b778c;
+  float: left;
+  padding: 6px;
+}
+
+.column-drag-handle-main:hover {
+  background-color: #091e4214;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.column-drag-handle-inner {
+  height: 32px;
+  width: 32px;
+  position: relative;
+
+  &::before {
+    font-family: Trello;
+    content: "\e951";
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.card-ghost {
+  transition: transform 0.18s ease;
+  transform: rotateZ(5deg);
+}
+
+.card-ghost-drop {
+  transition: transform 0.18s ease-in-out;
+  transform: rotateZ(0deg);
+}
+
+.opacity-ghost {
+  transition: all 0.18s ease;
+  opacity: 0.8;
+  background-color: cornflowerblue;
+  box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.3);
+}
+
+.opacity-ghost-drop {
+  opacity: 1;
+  background-color: white;
+  box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0);
+}
+
+.form-demo {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: flex;
+}
+
+.form {
+  flex: 3;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 6px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.08), 0px 3px 3px rgba(0, 0, 0, 0.08);
+}
+
+.form-fields-panel {
+  flex: 1;
+  margin-right: 50px;
+}
+
+.form-ghost {
+  transition: 0.18s ease;
+  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.08);
+}
+
+.form-ghost-drop {
+  box-shadow: 0 0 2px 5px rgba(0, 0, 0, 0);
+}
+
+.drop-preview {
+  background-color: rgba(150, 150, 200, 0.1);
+  //   border: 1px dashed #abc;
+  margin: 5px;
+}
+
+// list shadow
+.cards-drop-preview {
+  // background: -webkit-linear-gradient(360deg, #949494 10%, #efefef 360%);
+  //   background: linear-gradient(360deg, #949494be 10%, #efefef 360%);
+  border-radius: 3px;
+  min-width: 272px;
+  margin: 0px 45px 5px 5px;
+  height: 100%;
+}
+
+.smooth-dnd-container {
+  // max-height: 60vh;
+  overflow-y: hidden;
+  max-height: 100%;
+  .vertical {
+    padding-right: 4px;
+    margin-top: 0px;
+    overflow-y: auto;
+  }
+  &::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+  }
+}

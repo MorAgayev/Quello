@@ -1,0 +1,15 @@
+.mention-section {
+  position: relative;
+
+  .users-select {
+    background-color: #fff;
+
+    // position: absolute;
+    // transform: translate(50%, 0);
+    z-index: 1000;
+    border-radius: 5px;
+
+    .users-show {
+    }
+  }
+}

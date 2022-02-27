@@ -1,0 +1,928 @@
+{
+  "_id": "61deab97d8fc4e646dcce7db",
+  "title": "Amsterdam Vacation",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1557251407-6356f6384370?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyNXx8YW1zdGVyZGFtfGVufDB8fHx8MTY0MjQxNDE0Ng&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1557251407-6356f6384370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyNXx8YW1zdGVyZGFtfGVufDB8fHx8MTY0MjQxNDE0Ng&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": true,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4d801c1d9389a63a75587",
+    "username": "zivtal",
+    "fullname": "Ziv Tal",
+    "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+  },
+  "members": [
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+    },
+    {
+      "_id": "61b4770c7b8e935e82f30212",
+      "username": "amirinbar",
+      "fullname": "Amir Inbar",
+      "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+      "createdAt": "2021-12-11T10:01:48.000Z"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null,
+      "createdAt": "2021-12-11T16:17:28.000Z"
+    }
+  ],
+  "activities": [],
+  "createdAt": 1641764474323.0,
+  "labels": [
+    {
+      "title": "Done",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Should do",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Must do",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "Can't miss",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Information",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    },
+    {
+      "title": "",
+      "color": "#ff78cb",
+      "id": "kT8v8m"
+    },
+    {
+      "title": "",
+      "color": "#b3bac5",
+      "id": "AYKlTC"
+    }
+  ],
+  "lists": [
+    {
+      "id": "0Y6ohvht",
+      "title": "Flight",
+      "cards": [
+        {
+          "createdAt": 1641764550520.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Ben Gurion Airport",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "7015001, Israel",
+              "shortAddress": "IL"
+            },
+            "lat": 32.005532,
+            "lng": 34.8854112,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.005532,34.88541120000001&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.005532,34.88541120000001&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#c9dbdf",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "UswsoxAE",
+                "url": "https://images.unsplash.com/photo-1568325541585-027345607d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxlYXN5amV0fGVufDB8fHx8MTY0MTc2NTY5MA&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "UswsoxAE"
+          },
+          "archiveAt": 0,
+          "id": "Y1rFKlz7"
+        },
+        {
+          "createdAt": 1641764617582.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Check-in W-Amsterdam",
+          "desc": "##**Review of the [W-Amsterdam](https://www.marriott.com/hotels/travel/amswh-w-amsterdam/) (Netherlands)**\n\nJust steps away from the vibrant Dam Square and the Royal Palace, the W-Amsterdam features 238 stylish guest rooms and suites spread across two historic buildings, an erstwhile telephone exchange building (from the 1920s) and a 1906 former bank with a quiet road in between. Guests arrive in style when they check in at the rooftop W Lounge, the W brand’s re-interpretation of the traditional hotel lobby, on the sixth floor of the Exchange building. Looking out to the Royal Palace and lively historic centre, the 22 meter (72 ft) Wet Deck is Amsterdam’s first rooftop pool and is heated in winter. [(Source)](https://theluxurytravelexpert.com/2016/03/16/review-w-amsterdam/)\n\nW Amsterdam features in my top 10 list of [Europe’s best hotel rooftops](https://theluxurytravelexpert.com/2016/05/30/top-10-europes-most-stunning-hotel-rooftops/) and in my list of the [40 hottest luxury hotel openings of 2015](http://theluxurytravelexpert.com/2015/12/18/travel-news-the-40-hottest-luxury-hotel-openings-of-2015/).\n\n<<youtube:vI9f0Mt96_0>>\n\n<<ul:The hotel enjoys a **central location** in the Dutch capital, probably the best one of all hotels in Amsterdam. It’s located behind the Royal Palace, a stone’s throw from Dam Square, and steps from the city’s iconic canal district with its vibrant restaurants, bars and nightlife scene. It’s quite amazing that the Marriott Hotel Group was able to secure this terrific spot in Amsterdam.\n||The hotel is located in two buildings, with a quiet street in between. The main wing is housed in a gorgeously refurbished, former **telephone Exchange building**, a historic property constructed in the Amsterdam School style of architecture. It opened last spring, and has 169 stylish guestrooms, including 10 suites and one Extreme Wow Suite (the W brand’s interpretation of the Presidential Suite). Within the Exchange building, you also find a spectacular rooftop (with swimming pool) and the excellent Mr. Porter restaurant, but more on that later.\n||The hotel’s second wing across the street is located in the **Bank building** and has an additional 66 contemporary guestrooms and suites, many overlooking the famous UNESCO-listed Singel canal, as well as a signature Away Spa, nightclub and destination bar. The Bank building also includes the W Amsterdam’s signature The Duchess restaurant and a ‘creative incubator’ concept space, providing a platform for local talent to showcase their fashion, art and design work and also featuring locally curated products.\n||The hotel’s Exchange wing – where I stayed during my visit – has **two trendy lobbies**: a low-key entrance lobby on the ground level, from where two elevators shuttle guests to the main lobby (where check-in is done) on the hotel’s 6th floor rooftop.\n||The **hotel’s spectacular rooftop floor** is the architectural and social highlight of the hotel.  It is a vast, glass-walled, rectangular-shaped space, wrapped around a courtyard and extending over the entire top of the Exchange building. It contains two check-in desks, a trendy lounge (with two open fires), two bars, several outdoor terraces, and Mr Porter Restaurant.\n||Although it is not the highest building in Amsterdam, the rooftop offers **terrific city views** nonetheless. One side of the hotel looks directly onto the Royal Palace while the other three sides offer a view over Amsterdam’s rooftops. Even if you are not staying at the hotel, you should visit the rooftop lounge to have a drink and enjoy the vibe and panoramic views. Drinks range from traditional to eclectic and everything in between, as do the clientele, making people-watching a spectator sport.\n||The rooftop terrace fronting the Royal Palace has a **visually stunning infinity pool**. Although this outdoor pool is very small (only 2 m or 6,5 ft), it runs almost the entire length of the cornice (22 m or 72 ft), so you can swim laps if you want to. In addition, the pool is heated, making a dip in winter possible.\n||W-Amsterdam boasts a minimalist style and **industrial chic design**, with lots of mellow grey shades, colorful artwork, bright spaces, heigh ceilings, and concrete floors. It brings a touch of New York’s trendy hotel scene to the Dutch capital.\n||The hotel features **238 guest rooms and suites**, each one of them mixing historical details with contemporary features. During my visit I stayed in a so-called Wonderful Room, across the street from the Royal Palace. While not very large, it did feel spacious nonetheless because of the high ceiling and glass outside-wall. The room was very well appointed and the technology and audio was outstanding. It featured a super-comfy kingsized bed, an open-plan bathroom with a peek-a-boo shower, as well as a restroom and closet hidden behind a glassed door. After I checked in the room, the staff delivered a lovely and sexy plate with welcome snacks.\n||The hotel features **two excellent and highly recommended dining venues**. Mr Porter restaurant is located on the rooftop floor of the Exchange building and artfully blends a modern steakhouse’s prestige with the buzz of a chic lounge. Mr Porter’s entrance is marked by a walkway that leads past a glass display of dry aged meat. The hotel’s other restaurant, The Duchess, is located in a sumptuously decorated space (with a stained-glass ceiling) in the Bank building. It has more the feel of a French brasserie and its menu comprises exquisite Mediterranean produce combined with light and refined flavors from Southern France and Italy.\n||The **delicious breakfast** is served at mr Porter Restaurant and it is a hot contender for the very best and most original breakfast in town. Not only does it have the customary continental buffet, but it also features plenty of never-heard-of juices (e.g. cucumber & spinach, celery & apple) and very original salads (e.g. green beens, pomegranate, and blue cheese). In addition, you can also order one hot dish per person (e.g. pancakes or eggs benedict).\n||W Hotels definitely target a young, tech-savvy, modern market, and it is not different in this hotel: there is a trendy ambience, young staff, and music everywhere. Whenever, whatever. The hotel has definitely a **WOW factor** and it’s one of my two favorite W hotels around the world, the other one being the W-Barcelona (and I have visited many of them around the globe).\n>",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Spuistraat 175, 1012 VN Amsterdam, Netherlands",
+              "shortAddress": "175"
+            },
+            "lat": 52.3727871,
+            "lng": 4.8900059,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3727871,4.890005899999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3727871,4.890005899999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#342925",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "amvjI7HB",
+                "url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw3fHxob3RlbHxlbnwwfHx8fDE2NDE3NjQ2NjI&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "amvjI7HB"
+          },
+          "archiveAt": 0,
+          "id": "mOxr2cms"
+        }
+      ],
+      "style": {}
+    },
+    {
+      "title": "Do",
+      "cards": [
+        {
+          "createdAt": 1641764725704.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Canal Cruise in Classic River Boat With Drinks & Dutch Cheese",
+          "desc": "On this 1h15min Luxury classic River Boat Cruise, you will explore the city, its famous landmarks, culture, and rich trading history whilst relaxing with a drink in your hand.\n\n<<youtube:QVmufFBuros>>",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#d28f75",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "gM3bn6cH",
+                "url": "https://images.unsplash.com/photo-1576638995410-cc3edd63bc27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxhbXN0ZXJkYW0lMjBDcnVpc2V8ZW58MHx8fHwxNjQxNzY0NzYx&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "gM3bn6cH"
+          },
+          "archiveAt": 0,
+          "id": "hko2dmus"
+        },
+        {
+          "createdAt": 1641765567740.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Vondelpark",
+          "desc": "Amsterdam's most famous park was designed and built in 1850 and today is a popular place for tourists and residents who can enjoy a variety of outdoor activities such as biking, hiking, jogging and picnicking.\n\n<<youtube:6jfiA-guhVc>>",
+          "members": [],
+          "labelsIds": ["d6cjhb"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "1071 Amsterdam, Netherlands",
+              "shortAddress": "Amsterdam"
+            },
+            "lat": 52.3579946,
+            "lng": 4.8686484,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3579946,4.8686484&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3579946,4.8686484&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#141510",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "bEAXG2oz",
+                "url": "https://images.unsplash.com/photo-1621196671318-3b38e3cc0fa4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxWb25kZWxwYXJrfGVufDB8fHx8MTY0MTc2NTYzNA&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "bEAXG2oz"
+          },
+          "archiveAt": 0,
+          "id": "vh0kIxYq"
+        },
+        {
+          "createdAt": 1642340945284.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Cycle to hidden gems",
+          "desc": "There are over 800,000 [bicycles](https://www.iamsterdam.com/en/plan-your-trip/getting-around/cycling) in Amsterdam. That’s more bikes than people! [Cycling in Amsterdam](https://www.iamsterdam.com/en/plan-your-trip/getting-around/cycling) is a way of life, made easier by the city’s unbeatable network of cycle routes and flat landscape. Amsterdam regularly comes out on top in lists of the world’s most cycle-friendly cities, and there’s no finer way to explore the region’s attractions than by pedal power. Hop on your bike and head to [Sloterplas](https://www.iamsterdam.com/en/see-and-do/things-to-do/nature-and-active/overview/sloterplas-strand) for a dip in the sprawling lake, or cycle over to [Ouderkerk aan de Amstel](https://www.iamsterdam.com/en/see-and-do/things-to-do/attractions-and-sights/places-of-interest/ouderkerk-aan-de-amstel) to explore a 12th-century village idyll packed with historic sights. Many of [Amsterdam’s best-kept secrets](https://www.iamsterdam.com/en/plan-your-trip/getting-around/cycling/cycle-routes) can be discovered from the comfort of your saddle.",
+          "members": [],
+          "labelsIds": ["YIQPhe"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642341129606.0,
+              "url": "https://www.iamsterdam.com/media/bikes/biking-through-nieuwendammerdijk-koen-smilde-photography.jpg?w=977",
+              "fileName": "biking-through-nieuwendammerdijk-koen-smilde-photography.jpg?w=977",
+              "type": "image",
+              "suffix": "jpg?w=977",
+              "id": "j2qVdBUg"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#b8ccb3",
+            "size": "",
+            "imgs": [
+              {
+                "id": "WW7aieGB",
+                "url": "https://www.iamsterdam.com/media/bikes/biking-through-nieuwendammerdijk-koen-smilde-photography.jpg?w=977"
+              }
+            ],
+            "imgId": "WW7aieGB",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "VfnLZou8"
+        }
+      ],
+      "style": {},
+      "id": "bWMJCQGD"
+    },
+    {
+      "title": "See",
+      "cards": [
+        {
+          "createdAt": 1642340850940.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Get lost in the arty Jordaan",
+          "desc": "Often cited as Amsterdam’s most charming neighbourhood, wandering into the [Jordaan](https://www.iamsterdam.com/en/about-amsterdam/amsterdam-neighbourhoods/centre/jordaan) feels like stepping back in time. Originally a working-class area, the Jordaan’s narrow streets and quaint buildings now make up one of Amsterdam’s most desirable quarters, dotted with independent art galleries, antique shops, courtyard gardens and atmospheric bars and restaurants. Ditch the map and lose yourself in the labyrinth of narrow lanes that sprawl eastwards from Prinsengracht canal known as the [9 Streets](https://www.iamsterdam.com/en/see-and-do/shopping/overview-misc-shops/de-9-straatjes-the-9-streets), one of Amsterdam's most rewarding shopping experiences. ",
+          "members": [],
+          "labelsIds": ["YIQPhe"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642340921194.0,
+              "url": "https://www.iamsterdam.com/media/canals-and-cityscapes/street-corner-noordermarkt-koen-smilde-photography.jpg?w=977",
+              "fileName": "street-corner-noordermarkt-koen-smilde-photography.jpg?w=977",
+              "type": "image",
+              "suffix": "jpg?w=977",
+              "id": "7agwOEBR"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#c1dbf4",
+            "size": "",
+            "imgs": [
+              {
+                "id": "Aa5aPZLW",
+                "url": "https://www.iamsterdam.com/media/canals-and-cityscapes/street-corner-noordermarkt-koen-smilde-photography.jpg?w=977"
+              }
+            ],
+            "imgId": "Aa5aPZLW",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "i2rwDUlh"
+        },
+        {
+          "createdAt": 1642341985874.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Red Light District",
+          "desc": "Get the insider's version of Amsterdam's Red Light District history and culture on this walking tour, with background info you wouldn't get from simply strolling on your own. Follow your guide past buzzing nightlife hot spots and local hangouts while listening to commentary on the famous neighborhood. Highlights include Chinatown, the Museum of Prostitution, and the city's first condom shop.\n\n<<img:http://happymag.tv/wp-content/uploads/2021/02/Red-Light-District-1-3-870x524.jpg||https://images.english.elpais.com/resizer/NPnmnPLSwWUe3wxkzvmMrFMCZak=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/LHIHLP5QR4KQ2N2ZCE4YMB26TE.jpg||https://i.pinimg.com/736x/0c/3d/d7/0c3dd739564c8fb6bf8efedf4dd5703f--new-amsterdam-red-light-district.jpg||https://static.neweuropetours.eu/wp-content/uploads/2018/08/ams-ft-25-1600x900.jpg||https://lp-cms-production.imgix.net/news/2019/03/red-light-district-changes-amsterdam.jpg||https://i.guim.co.uk/img/media/c93b41394c9892576721cbf356c70876e867ba2e/0_0_3744_2246/master/3744.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=2b834ce77e02c9bac88fa197386c6806||https://live.staticflickr.com/3149/3546379761_c6be5a7256_c.jpg||https://globolmag.s3.amazonaws.com/uploads/picture/image/374/medium_6d012713e917a1318a47295dfbf63b8f.jpg||https://cdn.cnn.com/cnnnext/dam/assets/190704075602-02-amsterdam-red-light-district-windows-super-169.jpg>>",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#da5802",
+            "size": "",
+            "imgs": [
+              {
+                "id": "JIzeUphN",
+                "url": "https://images.unsplash.com/photo-1590175873438-c55c72f73f33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxSZWQlMjBMaWdodCUyMERpc3RyaWN0fGVufDB8fHx8MTY0MjM0MjAxOA&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "JIzeUphN",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "0qZqZznu"
+        },
+        {
+          "createdAt": 1642342536818.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Wake up and smell the tulips",
+          "desc": "Yes, they’re as clichéd as clogs, but [tulips](https://www.iamsterdam.com/en/see-and-do/shopping/typically-dutch/tulipomania) are a definitive symbol of Dutch culture, and a trip to the Netherlands wouldn’t be complete without feasting your eyes on these beautiful blooms. If you’re visiting Amsterdam in spring, then take the short 20-minute trip out to the world-famous [tulip fields](https://www.iamsterdam.com/en/plan-your-trip/day-trips/flower-strip) (Bollenstreek) – stretching out in colourful stripes across miles of lowland fields between Haarlem and Leiden. There are also ample opportunities to stop and smell the tulips right in the heart of the city; the bulbs spill out of bouquets at the [Bloemenmarkt](https://www.iamsterdam.com/sitecore/service/notfound.aspx?item=web%3a%7b59E54C51-83E1-4775-B651-86483239418F%7d%40en), line the windows of the [Tulip Museum](https://www.iamsterdam.com/en/see-and-do/things-to-do/museums-and-galleries/museums/amsterdam-tulip-museum) and seem to burst forth from every possible planter during the [Tulip Festival](https://www.iamsterdam.com/en/see-and-do/whats-on/festivals/overview-cultural-festivals/tulp-festival), which lasts all of April. ",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642342557813.0,
+              "url": "https://www.iamsterdam.com/media/ama/flower-strip/flower-strip-2020/38keukenhofroyaltyfree.jpg?w=977",
+              "fileName": "38keukenhofroyaltyfree.jpg?w=977",
+              "type": "image",
+              "suffix": "jpg?w=977",
+              "id": "Lg1srJ1Q"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#bbaaa3",
+            "size": "",
+            "imgs": [
+              {
+                "id": "qoR6xGB0",
+                "url": "https://www.iamsterdam.com/media/ama/flower-strip/flower-strip-2020/38keukenhofroyaltyfree.jpg?w=977"
+              }
+            ],
+            "imgId": "qoR6xGB0"
+          },
+          "archiveAt": 0,
+          "id": "SjgjGsdA"
+        }
+      ],
+      "style": {},
+      "id": "p4zvezdm"
+    },
+    {
+      "title": "Museum",
+      "cards": [
+        {
+          "createdAt": 1641765505261.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Van Gogh Museum",
+          "desc": "<<youtube:9YcEStbkVDM>>\n\n##**Overview**\n\nBypass the lines at the Van Gogh Museum in Amsterdam and admire van Gogh’s works with your very own private guide. Gain priority access and explore the highlights of the museum, home to the world’s biggest Vincent Van Gogh art collection. Let your guide introduce you to sublime masterpieces such as ‘Sunflowers,’ learn the significance of some lesser-known paintings, and see pieces by artists who influenced his style, such as Gauguin and Monet. A perfect introduction to the museum and the great artist’s life and work. [Source](https://www.viator.com/tours/Amsterdam/Van-Gogh-Museum-in-Amsterdam-Private-Tour-and-Skip-the-Line-Ticket/d525-8681P6)\n\n<<ul:Private skip-the-line tour of Amsterdam’s Van Gogh Museum\n||Sail past the main entrance lines with a priority-access ticket\n||Admire key pieces of the museum, home to the world’s largest Vincent Van Gogh collection\n||Study iconic Van Gogh works such as 'Sunflowers,' and lesser-known paintings and drawings\n||Hear about van Gogh’s troubled life and artistic styles, from his Dutch period to luminous French creations\n||See paintings by artists who influenced Van Gogh, such as Seurat and Gauguin\n||Enjoy personalized commentary and the full attention of a private guide>>\n\n###**What's Included**\n<<ul:Skip-The-Line Guided Museum Tour\n||Tour Guide Exclusively For You (Does NOT apply if you choose \"SAVE! BOOK SEMI-PRIVATE\" option)\n||Duration 2 - 2.5 Hours\n||Wheelchair Friendly (Does NOT apply if you choose \"SAVE! BOOK SEMI-PRIVATE\" option)\n||All Entry Fees>>\n\nRead more about Skip-the-line [Van Gogh Museum Amsterdam Private Guided Tour](https://www.viator.com/tours/Amsterdam/Van-Gogh-Museum-in-Amsterdam-Private-Tour-and-Skip-the-Line-Ticket/d525-8681P6?mcid=56757)",
+          "members": [],
+          "labelsIds": ["d6cjhb", "DNfXVp", "YIQPhe", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Museumplein 6, 1071 DJ Amsterdam, Netherlands",
+              "shortAddress": "6"
+            },
+            "lat": 52.3584159,
+            "lng": 4.8810756,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3584159,4.8810756&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3584159,4.8810756&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#3a6a81",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "B27ugctJ",
+                "url": "https://images.unsplash.com/photo-1596792520705-7ceba3bf6056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxWYW4lMjBHb2dofGVufDB8fHx8MTY0MTc2NTUyNw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "B27ugctJ"
+          },
+          "archiveAt": 0,
+          "id": "izeuw00w"
+        },
+        {
+          "createdAt": 1642341189442.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Anne Frank House",
+          "desc": "##**Overview**\n\nDiscover Amsterdam’s WWII history and follow in the footsteps of Anne Frank on this walking tour of the Jewish Quarter. See the Jewish Historical Museum, the Portuguese Synagogue, and the Auschwitz Monument; learn about events such as the February Strike and Winter of Hunger, and end the tour outside the Anne Frank House (entrance not included). [Read more...](https://www.viator.com/tours/Amsterdam/Anne-Frank-and-Jewish-Quarter-Guided-Walking-Tour-in-Amsterdam/d525-8718P4?mcid=56757)...\n\n<<youtube:ond6r5pafjw>>\n\n<<ul:See landmarks such as the Jewish Historical Museum, the Portuguese Synagogue, and the Auschwitz Monument\n||Learn about Amsterdam during WWII and the Nazi occupation\n||Discover the story of Anne Frank and pass by the Anne Frank House\n||Small-group tour limited to 15 people ensures a personalized experience>>\n\n###**Why Travelers Choose This Tour**\nThis cost-effective tour covers Amsterdam’s Jewish sites while including a guide to provide context.\n\n<<img:https://dynamic-media-cdn.tripadvisor.com/media/photo-s/00/14/32/60/estatua-de-anne-frankhius.jpg?w=400&h=-1&s=1||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/44/04/a-free-audio-guide-is.jpg?w=1100&h=-1&s=1||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/cd/98/9c/anne-s-original-diary.jpg?w=1100&h=-1&s=1||https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/3b/7d/3c/sign-on-the-anne-frank.jpg?w=600&h=-1&s=1||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/56/a3/9c/p-20190130-102707-largejpg.jpg?w=1400&h=-1&s=1>>",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642341241224.0,
+              "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/42/8b/inside-the-anne-frank.jpg?w=2000&h=-1&s=1",
+              "fileName": "inside-the-anne-frank.jpg?w=2000&h=-1&s=1",
+              "type": "image",
+              "suffix": "jpg?w=2000&h=-1&s=1",
+              "id": "PK0meJt6"
+            }
+          ],
+          "location": {
+            "address": {
+              "longAddress": "Westermarkt 20, 1016 GV Amsterdam, Netherlands",
+              "shortAddress": "20"
+            },
+            "lat": 52.3752182,
+            "lng": 4.8839765,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3752182,4.8839765&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3752182,4.8839765&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#bc9874",
+            "size": "",
+            "imgs": [
+              {
+                "id": "t5vCaDfn",
+                "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/42/8b/inside-the-anne-frank.jpg?w=2000&h=-1&s=1"
+              }
+            ],
+            "imgId": "t5vCaDfn",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "qkW6VbPU"
+        },
+        {
+          "createdAt": 1642341841151.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Madame Tussauds Amsterdam",
+          "desc": "**Madame Tussauds Amsterdam** is a [wax museum](https://en.wikipedia.org/wiki/Wax_museum) situated in Amsterdam, the capital city of the Netherlands. It is located in the centre of the city on Dam Square, near the Royal Palace of Amsterdam. Founded in 1970, it was the first Madame Tussauds that was opened in mainland Europe as well as being the first foreign branch of the British institution. The collection of Madame Tussauds Amsterdam consists of a collection of wax figures of famous celebrities in different categories such as the Golden Age of Dutch history, music, sport and film.\n\n<<youtube:x-8R-1Ko5v4>>",
+          "members": [],
+          "labelsIds": ["DNfXVp", "YIQPhe"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Dam 20, 1012 NP Amsterdam, Netherlands",
+              "shortAddress": "20"
+            },
+            "lat": 52.3725915,
+            "lng": 4.8925782,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3725915,4.8925782&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3725915,4.8925782&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#23383b",
+            "size": "",
+            "imgs": [
+              {
+                "id": "2mLQZB4A",
+                "url": "https://images.unsplash.com/photo-1636313959369-2aa51928b266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxNYWRhbWUlMjBUdXNzYXVkcyUyMEFtc3RlcmRhbXxlbnwwfHx8fDE2NDIzNDE5MjM&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "2mLQZB4A",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "9ylWVUym"
+        },
+        {
+          "createdAt": 1642342131636.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Moco Museum Amsterdam",
+          "desc": "\n\n<<img:||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c2/95/30/bansky.jpg?w=1400&h=-1&s=1\n||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/67/4b/6a/photo4jpg.jpg?w=1400&h=-1&s=1\n||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/f6/aa/3a/photo2jpg.jpg?w=1400&h=-1&s=1\n||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f6/30/03/banksy.jpg?w=1400&h=-1&s=1\n||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c2/93/19/digital-immersive-art.jpg?w=1000&h=-1&s=1\n||https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/3d/2a/4d/photo6jpg.jpg?w=1100&h=-1&s=1>>",
+          "members": [],
+          "labelsIds": ["d6cjhb"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642342160380.0,
+              "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c2/a0/36/digital-immersive-art.jpg?w=1100&h=-1&s=1",
+              "fileName": "digital-immersive-art.jpg?w=1100&h=-1&s=1",
+              "type": "image",
+              "suffix": "jpg?w=1100&h=-1&s=1",
+              "id": "DPdBCnQQ"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#cd7b55",
+            "size": "",
+            "imgs": [
+              {
+                "id": "fyg4OQiO",
+                "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/c2/a0/36/digital-immersive-art.jpg?w=1100&h=-1&s=1"
+              }
+            ],
+            "imgId": "fyg4OQiO",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "tf0YaYoO"
+        },
+        {
+          "createdAt": 1642341655946.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Sexmuseum Amsterdam Venustempel",
+          "desc": "Located in the centre of Amsterdam, the Venustempel (temple of Venus) is the world's first and oldest sex museum. The museum looks at many aspects of sensual love through the ages, displaying an extensive collection of erotic pictures, paints, recordings, photographs and more. The vast collection was personally gathered by the museum’s owners and is now on permanent display in their 17th-century property on the Damrak.\n\n<<img:||https://image.wmsm.co/56cb0ebc0afa1/sexmuseum-amsterdam-1.jpg?quality=80&width=1280\n||https://image.wmsm.co/56cb4b327744b/sexmuseum-amsterdam-2.jpg?quality=80&width=1280\n||https://image.wmsm.co/56cb4b3b574b7/sexmuseum-amsterdam-9.jpg?quality=80&width=1280>>\n\n<<table:2||**Monday**||9:30-23:30||**Tusday**||9:30-23:30||**Wednesday**||9:30-23:30||**Thursday**||9:30-23:30||**Friday**||9:30-23:30||**Saturday**||9:30-23:30||**Sunday**||9:30-23:30>>",
+          "members": [],
+          "labelsIds": ["d6cjhb"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642341677971.0,
+              "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d5/7f/72/iconos-sexuales.jpg?w=1400&h=-1&s=1",
+              "fileName": "iconos-sexuales.jpg?w=1400&h=-1&s=1",
+              "type": "image",
+              "suffix": "jpg?w=1400&h=-1&s=1",
+              "id": "cTGXo4cZ"
+            },
+            {
+              "createdAt": 1642370072350.0,
+              "url": "https://media.iamsterdam.com/ff/api/assets/5ff88043de7e8633a4aa5dbd/d7149fdc-2c08-4f91-b29b-da8d1225adf4.jpg?w=1200&h=675&scale=both&mode=crop&quality=70",
+              "fileName": "d7149fdc-2c08-4f91-b29b-da8d1225adf4.jpg?w=1200&h=675&scale=both&mode=crop&quality=70",
+              "type": "image",
+              "suffix": "jpg?w=1200&h=675&scale=both&mode=crop&quality=70",
+              "id": "SU17b5fl"
+            }
+          ],
+          "location": {
+            "address": {
+              "longAddress": "Damrak 18, 1012 LH Amsterdam, Netherlands",
+              "shortAddress": "18"
+            },
+            "lat": 52.3766117,
+            "lng": 4.8972287,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3766117,4.897228699999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3766117,4.897228699999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#572212",
+            "size": "",
+            "imgs": [
+              {
+                "id": "Wp5LT4nY",
+                "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/d5/7f/72/iconos-sexuales.jpg?w=1400&h=-1&s=1"
+              }
+            ],
+            "imgId": "Wp5LT4nY",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "ueh4YSFv"
+        }
+      ],
+      "style": {},
+      "id": "9xTejwcd"
+    },
+    {
+      "title": "Eat",
+      "cards": [
+        {
+          "createdAt": 1642255663849.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Dinner at The Duchess Resturant",
+          "desc": "<<youtube:hVQMvC9yIBc>>\n\nAfter a long walk around Rembrandt all his paintings, come to this restaurant and have a rest here. French and Italian cuisines are famous around the world and guests advise you to try them at The Duchess. Taste perfectly cooked king crab, spaghetti and caviar to form your opinion about this place. Good crème brûlée, doughnuts and vanilla ice cream might be what you need. It's a must when visiting this spot to order delicious champagne, desert wine or whiskey. Visit this place and have great tea, espresso or fruit juice.\n\nThe cosy atmosphere of this restaurant makes customers feel relaxed and have a nice time. The staff is professional that's what makes The Duchess so good. Fast service is something that people highlight in their reviews. You will pay fair prices for your meal. Besides, the decor is cute. It's a Michelin one-star restaurant, the award is usually given for serving great food.\n\n<<img:||https://media-cdn.tripadvisor.com/media/photo-s/0b/60/23/e2/photo1jpg.jpg||https://media-cdn.tripadvisor.com/media/photo-s/1d/7f/18/98/photo0jpg.jpg||https://media-cdn.tripadvisor.com/media/photo-s/15/39/2c/c7/photo9jpg.jpg>>",
+          "members": [],
+          "labelsIds": ["YIQPhe", "DNfXVp", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642255799488.0,
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/29/fa/87/the-grandeur.jpg",
+              "fileName": "the-grandeur.jpg",
+              "type": "image",
+              "suffix": "jpg",
+              "id": "wrIefHDx"
+            }
+          ],
+          "location": {
+            "address": {
+              "longAddress": "Spuistraat 172, 1012 VT Amsterdam, Netherlands",
+              "shortAddress": "172"
+            },
+            "lat": 52.372863,
+            "lng": 4.8894088,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.372863,4.8894088&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.372863,4.8894088&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#19170b",
+            "size": "",
+            "imgs": [
+              {
+                "id": "lgzoUICl",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/29/fa/87/the-grandeur.jpg"
+              }
+            ],
+            "imgId": "lgzoUICl",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "jSCkQn1v"
+        },
+        {
+          "createdAt": 1641765045040.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Restaurant Daalder",
+          "desc": "Dennis Huwaë has a clear vision in mind: to serve delicious cuisine in a relaxed atmosphere. This aim is immediately evident at Daalder, a former neigh...\n\n<<youtube:zWCc4bZ2MmI>>",
+          "members": [],
+          "labelsIds": ["d6cjhb", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Postjesweg 1, 1057 DT Amsterdam, Netherlands",
+              "shortAddress": "1"
+            },
+            "lat": 52.3642559,
+            "lng": 4.8590561,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.3642559,4.859056099999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.3642559,4.859056099999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#503c19",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "R9W1XhhQ",
+                "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxSZXN0YXVyYW50JTIwRGFhbGRlcnxlbnwwfHx8fDE2NDE3NjUwOTI&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "R9W1XhhQ"
+          },
+          "archiveAt": 0,
+          "id": "ZDFg9sYP"
+        },
+        {
+          "createdAt": 1641765130088.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Restaurant Zaza's",
+          "desc": "Restaurant Zaza’s, owned by Susie Roche from Ireland, opened its doors in May 2003 in the heart of “De Pijp”, Amsterdam’s Latin Quarter and hot spot for socialising. Susie and her team – Chef Cook Dave, Jasper, Noury, Ijsbrand, Rachael and Linda have a passion for their work and share a love of good food and great service.",
+          "members": [],
+          "labelsIds": ["d6cjhb", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Daniël Stalpertstraat 103, 1072 XD Amsterdam, Netherlands",
+              "shortAddress": "103"
+            },
+            "lat": 52.35623,
+            "lng": 4.8921973,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=52.35623,4.8921973&zoom=12&size=512x160&markers=color:red|size:mid|label:|52.35623,4.8921973&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#6e632d",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "S8fg84ez",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxGaW5lJTIwRGluaW5nfGVufDB8fHx8MTY0MTc2NTQwOQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "S8fg84ez"
+          },
+          "archiveAt": 0,
+          "id": "pDhm9YZ4"
+        },
+        {
+          "createdAt": 1642256563973.0,
+          "createdBy": {
+            "_id": "61b4cf185cda39ade9f822bc",
+            "username": "Guest",
+            "fullname": "Guest",
+            "imgUrl": null
+          },
+          "title": "Breakfast at Mr Porter",
+          "desc": "Located at the top of the uber trendy W-Amsterdam (which also happens to be one of our favourite hotel brands) lies MR PORTER. MR PORTER is a modern steakhouse by day which glides seamlessly into drinking hotspot by night, what a seductive match! TLE was asked along to experience the restaurant in our latest trip to Amsterdam and boy did we love it!\n\n###**Background & Concept**\nManaged by one of Amsterdam’s most successful creative hospitality entrepreneurs, Yossi Eliyahoo, whose Entourage Group also includes Momo, Izakaya and the W hotel’s grand ground floor establishment, The Duchess. The MR PORTER concept is simple and effective, it mixes the modern steakhouse with the buzz and experience of a New York style club-lounge. So fine dining sits comfortably hand in hand with some of the coolest DJs and mixologists in the city, so you can make a night of it, or whole afternoon of it as we did!\n\nThe experience starts on the ground floor of the W Hotel, this building was a former telephone exchange built in 1904, there are nods to the buildings past all through the building it has a very industrial feel to it.\n\n<<youtube:5Bq4iDs_iZw>>\n\n<<img:||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9321.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9428.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9324.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9370.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9331.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9435.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9441.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9438.jpg?w=1000&ssl=1\n||https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9448.jpg?w=1000&ssl=1\n>>\n\n<script>console.log('test')</script>",
+          "members": [],
+          "labelsIds": ["YIQPhe", "DNfXVp", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1642257017311.0,
+              "url": "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/06/amswh-exterior-8679-hor-wide.jpg?w=1440&ssl=1",
+              "fileName": "amswh-exterior-8679-hor-wide.jpg?w=1440&ssl=1",
+              "type": "image",
+              "suffix": "jpg?w=1440&ssl=1",
+              "id": "Z3E1Z9eo"
+            },
+            {
+              "createdAt": 1642266737811.0,
+              "url": "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9321.jpg?w=1000&ssl=1%3C/p%3E%3Cp%3E",
+              "fileName": "p%3E%3Cp%3E",
+              "type": "image",
+              "suffix": "jpg?w=1000&ssl=1%3C/p%3E%3Cp%3E",
+              "id": "niDHYJ1J"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#7f807a",
+            "size": "",
+            "imgs": [
+              {
+                "id": "CNOGIAsa",
+                "url": "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/05/IMG_9321.jpg?w=1000&ssl=1%3C/p%3E%3Cp%3E"
+              },
+              {
+                "id": "LtTp716d",
+                "url": "https://i0.wp.com/theluxuryeditor.com/wp-content/uploads/2019/06/amswh-exterior-8679-hor-wide.jpg?w=1440&ssl=1"
+              }
+            ],
+            "imgId": "CNOGIAsa",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "QMoqk3Pk"
+        }
+      ],
+      "style": {},
+      "id": "UyK8Yvy7"
+    }
+  ],
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "isFavorite": true,
+  "activityCount": 5,
+  "lastActivity": 1642758449525.0
+}

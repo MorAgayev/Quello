@@ -1,0 +1,313 @@
+.activity-container {
+  clear: both;
+  max-width: 100%;
+  overflow: hidden;
+  .title {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 0 0 4px 40px;
+    padding: 8px 0;
+    min-height: 32px;
+    font-size: 20px;
+    line-height: 20px;
+    .left-side {
+      flex: 1;
+      .activity-icon {
+        left: -40px;
+        position: absolute;
+        &::before {
+          font-family: Trello;
+          content: "\e900";
+          font-size: 24px;
+        }
+      }
+      .card-item-title {
+        font-weight: 600;
+        display: inline-block;
+        margin: 0;
+        min-height: 18px;
+        min-width: 40px;
+        width: auto;
+        color: #172b4d;
+        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+          Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+      }
+    }
+    .show-details {
+      padding: 6px 12px;
+      border-radius: 3px;
+      border: none;
+      background-color: #091e420a;
+      color: #172b4d;
+    }
+  }
+  .icon-open {
+    transform: translateY(0);
+  }
+  .icons {
+    bottom: 8px;
+    position: absolute;
+    right: 8px;
+    transition-duration: 85ms;
+    transition-property: opacity, transform;
+    transition-timing-function: ease;
+    > * {
+      font-size: 1rem;
+      font-family: Trello;
+    }
+
+    .attachment::before {
+      cursor: pointer;
+      content: "\e908";
+    }
+
+    .member::before {
+      content: "\e946";
+      cursor: pointer;
+    }
+
+    .emoji::before {
+      content: "\e929";
+      cursor: pointer;
+    }
+  }
+  .active-box {
+    display: flex;
+    .avatar {
+      margin-block-start: 4px;
+    }
+    .text-box-active {
+      padding: 7px 12px 56px 12px !important;
+    }
+    .text-box {
+      margin: 4px 4px 12px 12px;
+      padding: 7px 12px;
+      height: 100%;
+      width: 100%;
+      position: relative;
+      background-color: #fff;
+      box-shadow: 0 1px 2px -1px #091e4240, 0 0 0 1px #091e4214;
+      border-radius: 3px;
+      flex-direction: column;
+      flex: 1;
+      overflow: hidden;
+      transition: box-shadow 85ms ease;
+      &:hover {
+        cursor: pointer;
+        box-shadow: 0 1px 1px #091e4240, 0 0 0 1px #091e4214;
+      }
+      textarea {
+        cursor: pointer;
+        background: #fff;
+        box-sizing: initial;
+        border: none;
+        height: 20px;
+        margin: 0;
+        padding: 0;
+        resize: none;
+        width: 100%;
+        overflow: hidden;
+        overflow-wrap: break-word;
+        outline: none;
+        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+          Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+        &:focus-visible {
+          outline-offset: 0px;
+        }
+        &:focus {
+          border: none;
+        }
+      }
+      .save-btn {
+        bottom: 8px;
+        left: 12px;
+        opacity: 0;
+        position: absolute;
+        transition-duration: 85ms;
+        transition-property: opacity, transform;
+        transition-timing-function: ease;
+      }
+      .show-save-btn {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      button {
+        background-color: #091e420a;
+        border: none;
+        box-shadow: none;
+        color: #4b5d7a;
+        padding: 8px;
+      }
+    }
+  }
+
+  .active-comment-space {
+    margin-block-end: 60px;
+  }
+
+  .active-comment {
+    position: relative;
+    // height: 60px;
+    padding: 8px 0;
+    width: 100%;
+    margin-block-start: 30px;
+    margin-inline-end: 40px;
+    min-width: 32px;
+    .avatar-comment {
+      position: absolute;
+    }
+    .active-input {
+      width: 100%;
+      .active-date {
+        color: #5e6c84;
+        font-size: 12px;
+      }
+      .active-username {
+        font-weight: bold;
+        margin: 0;
+      }
+      .active-title {
+        margin: 0 5px;
+      }
+      .open-active {
+        padding: 7px 12px 78px 12px !important;
+        background: #fff;
+      }
+      span {
+        margin-inline-start: 8px;
+      }
+      &:not(:first-child) {
+        align-items: center;
+        margin-inline-start: 40px;
+        display: block;
+      }
+      .active-textarea {
+        background: #fff;
+        width: 100%;
+        min-height: 36px;
+        position: relative;
+        background-color: #fff;
+        flex-direction: column;
+        border-radius: 3px;
+        box-shadow: 0 1px 2px -1px #091e4240, 0 0 0 1px #091e4214;
+        overflow: hidden;
+        transition: box-shadow 85ms ease;
+        padding: 8px 12px;
+        .text-area {
+          white-space: pre-line;
+          width: 100%;
+          h1 {
+            margin: 0 0 6px 0;
+            font-size: 1.5em;
+            font-weight: 500;
+          }
+          h2 {
+            margin: 0 0 6px 0;
+            font-size: 1.3em;
+            font-weight: 500;
+          }
+          h3 {
+            margin: 0 0 6px 0;
+            font-size: 1.1em;
+            font-weight: 500;
+          }
+          p {
+            margin: 0 0 18px 0;
+            font-size: 1em;
+          }
+          a {
+            color: #172b4d;
+          }
+          span {
+            &.bold {
+              font-weight: 700;
+            }
+          }
+          hr {
+            height: 1px;
+            background-color: gray;
+          }
+          table {
+            margin: 6px 0 6px 0;
+            border: solid 1px gray;
+            text-align: center;
+            tr {
+              td {
+                padding: 3px;
+                border: solid 1px gray;
+              }
+            }
+          }
+        }
+        textarea {
+          background: #fff;
+          box-sizing: initial;
+          border: none;
+          height: 20px;
+          margin: 0;
+          min-height: 20px;
+          padding: 0;
+          resize: none;
+          width: 100%;
+          overflow: hidden;
+          overflow-wrap: break-word;
+          height: 20px;
+          outline: none;
+          font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+            Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+        }
+        .active-btn-save {
+          bottom: 8px;
+          left: 12px;
+          opacity: 0;
+          position: absolute;
+        }
+        .active-show-save-btn {
+          opacity: 1;
+          transform: translateY(0);
+          .close-input::before {
+            font-size: 1.5rem;
+            content: "\e91b";
+            font-family: Trello;
+            position: absolute;
+            left: 55px;
+            top: 10px;
+            cursor: pointer;
+          }
+        }
+        button {
+          background-color: #091e420a;
+          border: none;
+          box-shadow: none;
+          color: #4b5d7a;
+          padding: 8px;
+        }
+      }
+      .active-control-btn {
+        > * {
+          cursor: pointer;
+          text-decoration: underline;
+          color: #5e6c84;
+          font-size: 12px;
+        }
+      }
+    }
+  }
+
+  &:last-child {
+    margin-block-end: 40px;
+  }
+}
+
+.slide-fade-enter-active {
+  transition: all 1.3s ease;
+}
+.slide-fade-leave-active {
+  transition: all 1.8s cubic-bezier(1, 0.5, 0.8, 1);
+}
+.slide-fade-enter,
+.slide-fade-leave-to {
+  transform: translateY(10px);
+  opacity: 0;
+}

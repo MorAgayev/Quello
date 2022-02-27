@@ -1,0 +1,87 @@
+.location-container {
+  height: 268.8px;
+  margin-top: 24px;
+  width: 100%;
+  overflow: hidden;
+  //   position: relative;
+
+  .location-header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 0 0 4px 40px;
+    padding: 8px 0;
+    min-height: 32px;
+    font-size: 20px;
+    line-height: 20px;
+
+    span {
+      top: 8px;
+      left: -40px;
+      position: absolute;
+      &:before {
+        font-family: Trello;
+        content: "\e943";
+        font-size: 24px;
+        font-weight: normal;
+      }
+    }
+  }
+  img {
+    height: 160px;
+    object-fit: cover;
+  }
+  .location-control {
+    background-color: #091e420a;
+    justify-content: space-between;
+    padding: 8px 12px;
+    .location-address {
+      flex: 1;
+      flex-direction: column;
+      width: calc(100% - 46px);
+      span {
+        display: inline-block;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        max-width: 100%;
+        &.main-address {
+          font-weight: bold;
+        }
+      }
+    }
+    .location-bts {
+      display: flex;
+      gap: 6px;
+      margin: 6px;
+      .google-map {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e92b", "#42526e", 16px);
+        }
+      }
+      .location-change {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e951", "#42526e", 16px);
+        }
+      }
+      .location-change:hover,
+      .google-map:hover {
+        cursor: pointer;
+        background-color: #091e4214;
+        color: #172b4d;
+      }
+    }
+  }
+
+  .main-location {
+    margin-inline-start: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+}

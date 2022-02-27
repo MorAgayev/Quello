@@ -1,0 +1,344 @@
+.card-details-container {
+  position: absolute;
+  z-index: 997;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: max-content;
+  min-height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7);
+  .card-details {
+    display: flex;
+    justify-content: center;
+    margin: 0 10px;
+    @include for-normal-layout {
+      margin: 0;
+    }
+    .cover {
+      height: 160px;
+      background-color: #cecece;
+      position: relative;
+      .close-card-details {
+        cursor: pointer;
+        background-color: #00000014;
+        height: 32px;
+        width: 32px;
+        padding: 4px;
+        margin: 4px;
+        border-radius: 50%;
+        position: absolute;
+        right: 0;
+        top: 0;
+        transition: background-color 85ms, color 85ms;
+        &::before {
+          @include icon("\e91b", "#42526e", 20px);
+        }
+      }
+      .cover-btn {
+        padding: 6px 12px 6px 6px;
+        border: none;
+        background-color: #00000014;
+        border-radius: 3px;
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        span {
+          height: 20px;
+          width: 20px;
+          position: relative;
+          &::before {
+            @include icon("\e913", "#42526e", 20px);
+          }
+        }
+      }
+      .cover-main {
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        border-radius: 3px;
+        text-decoration: none;
+        border: none;
+        align-items: center;
+        padding: 8px;
+      }
+    }
+    .archived {
+      background-color: #fdfae5;
+      background-image: linear-gradient(
+        to bottom right,
+        rgba(0, 0, 0, 0.05) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(0, 0, 0, 0.05) 50%,
+        rgba(0, 0, 0, 0.05) 75%,
+        transparent 75%,
+        transparent
+      );
+      background-size: 14px 14px;
+      min-height: 30px;
+      padding: 12px 12px 12px 50px;
+      position: relative;
+      p {
+        font-size: 16px;
+        line-height: 30px;
+        margin: 0;
+      }
+      svg {
+        position: absolute;
+        top: 12px;
+        left: 12px;
+        display: inline-block;
+        line-height: 1;
+      }
+    }
+    .header {
+      .header-content {
+        margin: 12px 40px 8px 56px;
+        min-height: 32px;
+        position: relative;
+        span {
+          left: -40px;
+          position: absolute;
+          top: 4px;
+          &::before {
+            font-family: Trello;
+            content: "\e913";
+            font-size: 25px;
+            line-height: 24px;
+          }
+        }
+        textarea {
+          background: transparent;
+          outline: none;
+          border: 0;
+          border-radius: 3px;
+          box-shadow: unset;
+          color: #172b4d;
+          font-family: Roboto-regular;
+          font-size: 20px;
+          font-weight: 600;
+          line-height: 28px;
+          height: 32px;
+          width: 100%;
+          resize: none;
+          overflow: hidden;
+          transition: box-shadow 0.3s;
+          margin: -4px -8px;
+          padding: 4px 8px;
+          &:focus,
+          &:active {
+            background-color: #fff;
+            box-shadow: inset 0 0 0 2px #0079bf;
+            color: #172b4d;
+          }
+        }
+        p {
+          margin: 0px 8px 4px 2px;
+        }
+      }
+    }
+    .card-details-main {
+      background-color: #f4f5f7;
+      border-radius: 2px;
+      margin: 48px 0 80px;
+      width: 100%;
+      max-width: 768px;
+      .card-item-title {
+        margin: 0;
+        line-height: 20px;
+        font-size: 16px;
+        font-weight: 600;
+        flex-grow: 1;
+        color: #172b4d;
+      }
+      .card-details-body {
+        @include for-normal-layout {
+          border-radius: 10px;
+          min-height: 600px;
+        }
+        .main-task {
+          flex-direction: column;
+          justify-content: space-between;
+          @include for-normal-layout {
+            flex-direction: row;
+          }
+          .main-task-details {
+            flex: 1;
+            padding: 0 8px 8px 16px;
+            @include for-narrow-layout {
+              max-width: calc(100% - 20px);
+            }
+            @include for-normal-layout {
+              flex-direction: row;
+              max-width: calc(100% - 207px);
+            }
+          }
+          .main-task-btns {
+            padding: 0 16px 0px 8px;
+            flex-direction: column;
+            h3 {
+              font-size: 12px;
+              line-height: 20px;
+              margin: 6px 12px 0 10px;
+              padding: 0;
+              color: #5e6c84;
+              font-weight: 500;
+              font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+                Noto Sans, Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+            }
+            .action-btns {
+              flex-wrap: wrap;
+              padding: 6px 0px;
+              gap: 0 5px;
+              @include for-normal-layout {
+                flex-direction: column;
+              }
+              button {
+                &:first-child {
+                  margin-top: 8px;
+                }
+                background-color: #091e420a;
+                border: none;
+                border-radius: 3px;
+                box-shadow: none;
+                height: 32px;
+                min-width: calc(50% - 5px);
+                @include for-normal-layout {
+                  min-width: 175px;
+                }
+                font-size: 14px;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                width: calc(50% - 10px);
+                color: #172b4d;
+                transition: all 85ms;
+                margin-top: 8px;
+                margin-left: 0;
+                &:hover {
+                  background-color: #091e4214;
+                }
+                @include for-narrow-layout {
+                  &:first-child {
+                    margin-top: 0px;
+                  }
+                  margin-left: 8px;
+                }
+                span {
+                  button {
+                    background-color: #cecece;
+                  }
+                }
+                span {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e949", "#172b4d", 14px);
+                  }
+                }
+                .members-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e945", "#172b4d", 14px);
+                  }
+                }
+                .labels-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e93f", "#172b4d", 14px);
+                  }
+                }
+                .checklist-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e919", "#172b4d", 14px);
+                  }
+                }
+                .dates-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e91a", "#172b4d", 14px);
+                  }
+                }
+                .attachment-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e908", "#172b4d", 14px);
+                  }
+                }
+                .location-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e943", "#172b4d", 14px);
+                  }
+                }
+                .cover-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e913", "#172b4d", 14px);
+                  }
+                }
+                .copy-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e91e", "#172b4d", 14px);
+                  }
+                }
+                .send-to-board-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e95a", "#172b4d", 14px);
+                  }
+                }
+                .delete-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e95b", "#172b4d", 14px);
+                  }
+                }
+                .archive-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e907", "#172b4d", 14px);
+                  }
+                }
+                .share-icon {
+                  height: 20px;
+                  width: 20px;
+                  position: relative;
+                  &::before {
+                    @include icon("\e962", "#172b4d", 14px);
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+.login-form {
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  .title {
+    text-align: center;
+    color: $clr2;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    span {
+      position: relative;
+      &::before {
+        font-family: trello;
+        content: '\e90a';
+        font-size: 50px;
+      }
+    }
+    h1 {
+      font-weight: 700;
+      margin:0 0 16px 0;
+      font-size: 40px;
+    }
+  }
+  img {
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+    height: 100px;
+    display: block;
+  }
+  .board {
+    margin: 20px auto;
+    max-width: 400px;
+    min-height: 380px;
+    max-height: 528px;
+    border-radius: 3px;
+    padding: 30px 40px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 12%);
+    p {
+      font-style: 1rem;
+      text-align: center;
+      line-height: 1.8em;
+    }
+    p.title {
+      color: #5e6c84;
+      font-weight: 700;
+      margin: 1em 0;
+    }
+    p.alternative {
+      font-size: 12px;
+      margin: 16px 0;
+      color: #4d4d4d;
+    }
+    p.sign-in {
+      cursor: pointer;
+      color: hsl(202, 40%, 55%);
+    }
+    input {
+      font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto,
+        Oxygen, Ubuntu, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+      display: block;
+      border: 2px solid #dfe1e6;
+      background-color: #fafbfc;
+      outline: none;
+      height: 44px;
+      padding: 0.5em;
+      margin: 12px 10px;
+      width: 300px;
+      border-radius: 3px;
+      transition: background-color 0.2s ease-in-out 0s,
+        border-color 0.2s ease-in-out 0s;
+      &::placeholder {
+        color: #4d4d4d;
+        // color: #dfe1e6;
+        font-weight: 300;
+        font-size: 14px;
+      }
+      // &[type="password"].password::after {
+      //   position: absolute;
+      //   content: "→";
+      // }
+    }
+    button {
+      border: 0;
+      padding: 5px;
+      font-size: 0.9em;
+      font-weight: 700;
+      letter-spacing: 1px;
+      color: white;
+      height: 36px;
+      width: 300px;
+      margin: 10px;
+      border-radius: 3px;
+      background: #5aac44;
+      &:hover {
+        background: #61bd4f;
+      }
+    }
+
+    ul {
+      display: inline;
+      text-decoration: none;
+      padding: 0;
+      li {
+        display: inline;
+        &::before {
+          margin: 0 8px 0px 4px;
+          font-family: Trello;
+          content: '\2022';
+          color: #4d4d4d;
+        }
+      }
+    }
+
+    hr {
+      display: block;
+      height: 1px;
+      border: 0;
+      width: 100%;
+      height: 3px;
+      border-top: 1px solid hsl(0, 0%, 80%);
+      margin: 1em 0;
+      padding: 0;
+    }
+    .gmail-login-btn {
+      background-color: $clr1;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+      span {
+        &::before {
+          font-family: trello;
+          font-size: 16px;
+          content:'\e933';
+        }
+      }
+
+      &:hover {
+        background-color: $clr2;
+      }
+    }
+  }
+}

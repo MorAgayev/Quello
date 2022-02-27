@@ -1,0 +1,539 @@
+{
+  "_id": "61dea970d8fc4e646dca7b99",
+  "title": "StartUp",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw2fHxTdGFydFVwfGVufDB8fHx8MTY0MjI3NzczMQ&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw2fHxTdGFydFVwfGVufDB8fHx8MTY0MjI3NzczMQ&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": true,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4770c7b8e935e82f30212",
+    "username": "amirinbar",
+    "fullname": "Amir Inbar",
+    "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+    "createdAt": "2021-12-11T10:01:48.000Z"
+  },
+  "members": [
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg",
+      "createdAt": "2021-12-11T16:55:29.000Z"
+    },
+    {
+      "_id": "61b4770c7b8e935e82f30212",
+      "username": "amirinbar",
+      "fullname": "Amir Inbar",
+      "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+      "createdAt": "2021-12-11T10:01:48.000Z"
+    },
+    {
+      "_id": "61b4d0d05cda39ade9f822c7",
+      "username": "moragayev",
+      "fullname": "Mor Agayev",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1639061017/16230606_1796566367334993_3511478696143749120_n_szjcdi.jpg",
+      "createdAt": "2021-12-11T16:24:48.000Z"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null,
+      "createdAt": "2021-12-11T16:17:28.000Z"
+    }
+  ],
+  "activities": [],
+  "createdAt": 1639075005647.0,
+  "labels": [
+    {
+      "title": "Manager task",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Low priority",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Medium priority",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "High priority",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Bug",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "Adjustment",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    },
+    {
+      "title": "All",
+      "color": "#ff78cb",
+      "id": "kT8v8m"
+    },
+    {
+      "title": "styles",
+      "color": "#b3bac5",
+      "id": "AYKlTC"
+    }
+  ],
+  "lists": [
+    {
+      "title": "Suppliers",
+      "cards": [
+        {
+          "createdAt": 1639075257536.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Starting to think on new ideas",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "id": "1Io1yZcb"
+        },
+        {
+          "createdAt": 1639075593125.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Flight to China to negotiate with Jean (potential supplier)",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "China",
+              "shortAddress": "CN"
+            },
+            "lat": 35.86166,
+            "lng": 104.195397,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=35.86166,104.195397&zoom=12&size=512x160&markers=color:red|size:mid|label:|35.86166,104.195397&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#3a638f",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "Ir5PrvyP",
+                "url": "https://images.unsplash.com/photo-1474181487882-5abf3f0ba6c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxjaGluYXxlbnwwfHx8fDE2NDE3NDYzMDk&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "Ir5PrvyP"
+          },
+          "id": "HSPfCtOI",
+          "archiveAt": 0
+        },
+        {
+          "createdAt": 1639076698263.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Jack is our supplier!",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "green",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "id": "rIR580nZ"
+        }
+      ],
+      "style": {},
+      "id": "0S5tMQbp"
+    },
+    {
+      "id": "OVsP3WfA",
+      "title": "Market Research",
+      "cards": [
+        {
+          "createdAt": 1639075863490.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Budget meeting",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "Checklist",
+              "items": [],
+              "id": "kt2fd9Qs"
+            }
+          ],
+          "dueDate": {
+            "date": 1639483200000.0,
+            "isComplete": false,
+            "createdAt": 1639076105160.0,
+            "completedAt": 1639076105160.0
+          },
+          "attachments": [
+            {
+              "createdAt": 1639235404871.0,
+              "url": "http://res.cloudinary.com/zivtal/image/upload/v1639235404/2_sorddd.jpg",
+              "fileName": "2",
+              "type": "image",
+              "suffix": "jpg",
+              "id": "OvFrN9Pj"
+            }
+          ],
+          "location": {
+            "address": {
+              "longAddress": "תל אביב-יפו, ישראל",
+              "shortAddress": "תל אביב-יפו"
+            },
+            "lat": 32.0852999,
+            "lng": 34.7817676,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.0852999,34.78176759999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.0852999,34.78176759999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "yellow",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "id": "fNny2xU5"
+        },
+        {
+          "createdAt": 1639076427087.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Ecommerce research",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#65473d",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "SzvLaWGo",
+                "url": "https://images.unsplash.com/photo-1501290741922-b56c0d0884af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHxyZXNlYXJjaHxlbnwwfHx8fDE2NDE3NDYzNzg&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "SzvLaWGo"
+          },
+          "id": "FFWCNI8g",
+          "undefined": null
+        },
+        {
+          "createdAt": 1639076523553.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Negotiation with potential suppliers",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "potential suppliers",
+              "items": [
+                {
+                  "title": "Jean",
+                  "isDone": true,
+                  "dueDate": null,
+                  "members": []
+                },
+                {
+                  "title": "Anna",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                },
+                {
+                  "title": "Jack",
+                  "isDone": false,
+                  "dueDate": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "members": []
+                }
+              ],
+              "id": "kXiyE1ry"
+            }
+          ],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Tel Aviv-Yafo, Israel",
+              "shortAddress": "Tel Aviv-Yafo"
+            },
+            "lat": 32.0852999,
+            "lng": 34.7817676,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.0852999,34.78176759999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.0852999,34.78176759999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#f6fffc",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "7KaLs9h8",
+                "url": "https://images.unsplash.com/photo-1626446636985-c583c1d5b237?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxzdXBwbGllcnN8ZW58MHx8fHwxNjQxNzQ2NDUw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "7KaLs9h8"
+          },
+          "id": "5fOsaAwB"
+        }
+      ],
+      "style": {}
+    },
+    {
+      "title": "Shipment",
+      "cards": [
+        {
+          "createdAt": 1639075557397.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Our first shipment",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#61625d",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "2smsA8Iv",
+                "url": "https://images.unsplash.com/photo-1605745341112-85968b19335b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw5fHxzaGlwcGluZ3xlbnwwfHx8fDE2NDE3NDYzNTI&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "2smsA8Iv"
+          },
+          "id": "JUG5D1So"
+        },
+        {
+          "createdAt": 1639075745891.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Every partner need to add a list of 10 potential products until 10/12",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [
+            {
+              "title": "products",
+              "items": [
+                {
+                  "title": "smartWatch",
+                  "isDone": false,
+                  "dueDate": null,
+                  "members": []
+                },
+                {
+                  "title": "baby book",
+                  "isDone": true,
+                  "dueDate": null,
+                  "members": []
+                },
+                {
+                  "title": "weight blanket",
+                  "isDone": {
+                    "completedAt": null,
+                    "createAt": null,
+                    "date": null
+                  },
+                  "dueDate": null,
+                  "members": []
+                }
+              ],
+              "id": "kV4pStPK"
+            }
+          ],
+          "dueDate": {
+            "date": 1639087200000.0,
+            "isComplete": true,
+            "createdAt": 1641746477856.0,
+            "completedAt": 1641746477856.0
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "תל אביב-יפו, ישראל",
+              "shortAddress": "תל אביב-יפו"
+            },
+            "lat": 32.0852999,
+            "lng": 34.7817676,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.0852999,34.78176759999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.0852999,34.78176759999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "red",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "id": "a8TpnGmH"
+        }
+      ],
+      "style": {},
+      "id": "JZxnuAey"
+    },
+    {
+      "title": "Promotion and Advertising",
+      "cards": [
+        {
+          "createdAt": 1641767009205.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Social Media Advertising",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#373f4c",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "OBvrfYS9",
+                "url": "https://images.unsplash.com/photo-1491951931722-5a446214b4e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw5fHxTb2NpYWwlMjBNZWRpYSUyMEFkdmVydGlzaW5nfGVufDB8fHx8MTY0MTc2NzAxNw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "OBvrfYS9"
+          },
+          "archiveAt": 0,
+          "id": "qKzTHKOG"
+        }
+      ],
+      "style": {},
+      "id": "IaM3uqmZ"
+    }
+  ],
+  "archive": {},
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "isFavorite": false,
+  "activityCount": 4,
+  "lastActivity": 1642701825388.0
+}

@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Roboto-regular;
+  line-height: 20px;
+  color: $clr5;
+}
+
+body {
+  touch-action: manipulation;
+  margin: 0;
+  color: #172b4d;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans,
+    Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Roboto-regular;
+  font-weight: 500;
+  margin: 0 0 1rem;
+}
+
+p {
+  margin: 0 0 1rem;
+  max-width: 60ch;
+}
+
+img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  cursor: pointer;
+  font-family: Roboto-regular;
+}
+
+a {
+  cursor: pointer;
+  font-family: Roboto-regular;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  scroll-behavior: smooth;
+  opacity: 0.5;
+}
+
+// ::-webkit-scrollbar-track {
+//   background: #091e4214;
+//   border-radius: 50px;
+// }
+
+::-webkit-scrollbar-thumb {
+  border-radius: 50px;
+  background-color: #bfc4ce7c;
+}
+
+::-webkit-scrollbar-track-piece {
+  border-radius: 3px;
+  background: #091e4214;
+}

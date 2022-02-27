@@ -1,0 +1,193 @@
+.main-header {
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  max-height: 44px;
+  padding: 6px 4px;
+  background-color: $clr1;
+  color: $clr5;
+  position: absolute;
+  width: 100%;
+
+  .menu {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    cursor: pointer;
+
+    .icon {
+      &::before {
+        @include icon("\e906", $clr5, 24px);
+      }
+      // position: absolute;
+      // top: 50%;
+      // left: 50%;
+      // transform: translate(-50%, -50%);
+      // height: 20px;
+      // width: 20px;
+    }
+  }
+
+  .logo {
+    flex-grow: 1;
+    div {
+      display: inline-block;
+      padding-top: 1px;
+      font-weight: 700;
+      line-height: 20px;
+      font-size: 18px;
+      > * {
+        cursor: pointer;
+      }
+      span {
+        margin: 0 1px;
+      }
+      .trello-icon {
+        margin: 0 5px;
+        height: 20px;
+        width: 20px;
+      }
+    }
+  }
+
+  button {
+    margin: 0 5px;
+    background-color: $clr2;
+    color: $clr5;
+    border: none;
+  }
+
+  .create {
+    button {
+      height: 32px;
+      width: 32px;
+      position: relative;
+
+      &::before {
+        @include icon("\e901", $clr5, 14px);
+      }
+    }
+  }
+}
+
+.avatar {
+  cursor: pointer;
+}
+
+.not-icon {
+  margin: 0 12px;
+}
+
+.menu-modal-background {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+}
+
+.menu-modal {
+  background-color: $clr5;
+  color: $clr2;
+  width: 300px;
+  border-radius: 3px;
+  padding: 10px;
+  position: absolute;
+  top: 35px;
+  left: 10px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  a {
+    text-decoration: none;
+    color: $clr2;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 3px;
+    transition: all 85ms;
+
+    &:hover {
+      background-color: rgb(224, 223, 223);
+    }
+  }
+
+  .menu-modal-title {
+    align-items: center;
+    h2 {
+      font-weight: 900;
+      padding: 10px;
+      margin: 0;
+    }
+    .qwello-icon {
+      height: 20px;
+      width: 20px;
+      position: relative;
+
+      &::before {
+        @include icon("\e90a", $clr2, 25px);
+      }
+    }
+  }
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.4s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.home-header {
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  max-height: 44px;
+  padding: 6px 4px;
+  color: $clr5;
+  position: fixed;
+  width: 100%;
+  justify-content: space-between;
+
+  .logo {
+    cursor: pointer;
+    padding: 0 5px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 18px;
+    flex-grow: 1;
+
+    .trello-icon {
+      height: 20px;
+      width: 20px;
+    }
+  }
+
+  button {
+    border: none;
+    padding: 6px 12px;
+    border-radius: 3px;
+    background-color: $clr2;
+    color: $clr4;
+    font-weight: 700;
+    letter-spacing: 0.025em;
+    margin-left: 5px;
+  }
+}
+
+.board-page-style {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.45);
+
+  button {
+    background-color: rgba(0, 0, 0, 0.45);
+  }
+}

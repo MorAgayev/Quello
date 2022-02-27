@@ -1,0 +1,1153 @@
+{
+  "_id": "61deaafcd8fc4e646dcc361c",
+  "title": "Discover the best of Paris in 48 hours",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1524396309943-e03f5249f002?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw5fHxEaXNjb3ZlciUyMHRoZSUyMGJlc3QlMjBvZiUyMFBhcmlzJTIwaW4lMjA0OCUyMGhvdXJzfGVufDB8fHx8MTY0MjI3NzcyMg&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1524396309943-e03f5249f002?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw5fHxEaXNjb3ZlciUyMHRoZSUyMGJlc3QlMjBvZiUyMFBhcmlzJTIwaW4lMjA0OCUyMGhvdXJzfGVufDB8fHx8MTY0MjI3NzcyMg&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": false,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4d801c1d9389a63a75587",
+    "username": "zivtal",
+    "fullname": "Ziv Tal",
+    "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+  },
+  "members": [
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+    },
+    {
+      "_id": "61b4770c7b8e935e82f30212",
+      "username": "amirinbar",
+      "fullname": "Amir Inbar",
+      "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+      "createdAt": "2021-12-11T10:01:48.000Z"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null,
+      "createdAt": "2021-12-11T16:17:28.000Z"
+    }
+  ],
+  "activities": [],
+  "createdAt": "2022-01-10T16:16:32.000Z",
+  "labels": [
+    {
+      "title": "Done",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Sightseeing tour",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Culinary & nightlife",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "To do",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Architecture",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "Art & Museums",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    },
+    {
+      "title": "History & Heritage",
+      "color": "#ff78cb",
+      "id": "kT8v8m"
+    },
+    {
+      "title": "Family-Friendly",
+      "color": "#b3bac5",
+      "id": "AYKlTC"
+    }
+  ],
+  "lists": [
+    {
+      "id": "tZt0hz1D",
+      "title": "Paris: Good to know 📌",
+      "cards": [
+        {
+          "createdAt": 1641831431972.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Currency: Euro (€)",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#98664b",
+            "size": "",
+            "imgs": [
+              {
+                "id": "iRd1vc2p",
+                "url": "https://images.unsplash.com/photo-1591033594798-33227a05780d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxjdXJyZW5jeXxlbnwwfHx8fDE2NDE4MzE5MTI&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "iRd1vc2p",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "AGDdtMZt"
+        },
+        {
+          "createdAt": 1641831443108.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Language: French",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "dPZQbFRD"
+        },
+        {
+          "createdAt": 1641831522955.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Country code: +33",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#0d0d0d",
+            "size": "",
+            "imgs": [
+              {
+                "id": "PIAzDMl5",
+                "url": "https://images.unsplash.com/photo-1525598912003-663126343e1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxwaG9uZXxlbnwwfHx8fDE2NDE4MzE5MjY&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "PIAzDMl5",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "xSjULGPt"
+        },
+        {
+          "createdAt": 1641831546076.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Time zone: UTC (+01:00)",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "hp610ghs"
+        },
+        {
+          "createdAt": 1641831558932.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Best time to visit: The French go on vacation for most of August, so the city will be a little less crowded — you'll be able to experience Paris at a slower pace.",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "CfUm17g0"
+        }
+      ],
+      "style": {}
+    },
+    {
+      "title": "Before the trip ✅",
+      "cards": [
+        {
+          "createdAt": 1641831614567.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Book flights",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#737d75",
+            "size": "",
+            "imgs": [
+              {
+                "id": "thkLXF24",
+                "url": "https://images.unsplash.com/photo-1604448724898-c1e456c979f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw1fHxlYXN5amV0fGVufDB8fHx8MTY0MTc2NTY5MA&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "thkLXF24",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "woxvWcQ0"
+        },
+        {
+          "createdAt": 1641831629658.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Book accommodation",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "BS9L53zU"
+        },
+        {
+          "createdAt": 1641831653795.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Download the GetYourGuide app",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#000012",
+            "size": "",
+            "imgs": [
+              {
+                "id": "Utq8xdrg",
+                "url": "https://images.unsplash.com/photo-1603515161074-3206aaeb03f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxhcHAlMjBzdG9yZXxlbnwwfHx8fDE2NDE4MzE4OTM&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "Utq8xdrg",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "KVBivGWO"
+        },
+        {
+          "createdAt": 1641831664969.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Read articles about Paris on GetYourGuide",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "6XIKwK70"
+        },
+        {
+          "createdAt": 1641831674656.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Pack suitcases",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "WWw14LfY"
+        },
+        {
+          "createdAt": 1641831688493.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Check weather",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": null,
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "0oX9DwGi"
+        },
+        {
+          "createdAt": 1641831700057.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Check-in online (flights)",
+          "desc": "",
+          "members": [],
+          "labelsIds": ["DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#173569",
+            "size": "",
+            "imgs": [
+              {
+                "id": "ZibVuHzs",
+                "url": "https://images.unsplash.com/photo-1603792835233-f4f7c2497d4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxmbGlnaHQlMjBjaGVjayUyMGlufGVufDB8fHx8MTY0MTgzMTg2MQ&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "ZibVuHzs",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "vqJ2FIst"
+        }
+      ],
+      "style": {},
+      "id": "BmyM1OE5"
+    },
+    {
+      "title": "Paris bucket list 🗺️",
+      "cards": [
+        {
+          "createdAt": 1641832012113.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "1. Reach the top of the Eiffel Tower",
+          "desc": "#Discover top-rated tickets for the Eiffel Tower \n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/eiffel-tower-tickets-second-floor-priority-access-summit-t130203/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\n**March-May**\nOpen daily, 8:30 AM-5:15 PM\n\n**June-August**\nOpen daily, 8:30 AM-7:00 PM\n\n**September-October**\nOpen daily, 8:30 AM-6:00 PM\n\n---\n\n###How do I get there?\nThe two closest métro stops are Bir-Hakeim (Line 6) and Trocadero (Line 9).\n\n---\n\n##Insider tips\n\n###Avoid the lines\nAs you know, Paris is quite a popular holiday destination. Plan ahead if you want to jump around and see the Eiffel Tower from lots of angles. It's easy to buy tickets online and go straight to the top — but if you're looking to do Paris on the cheap, remember to plan waiting time at major monuments into your itinerary.\n\n---\n\n###Watch your stuff\nLots of travelers are looking for a cafe or restaurant nearby these views where they can relax and regroup away from the crowds. While all the major tourist areas are safe enough, tourists tend to let their guard down as soon as they order a café au lait. As always, zip up your purse and watch out for thieves.",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#342e3b",
+            "size": "",
+            "imgs": [
+              {
+                "id": "Va30Z43q",
+                "url": "https://images.unsplash.com/photo-1565881606991-789a8dff9dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw3fHxlaWZmZWwlMjB0b3dlcnxlbnwwfHx8fDE2NDE5MjA1NzA&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "Va30Z43q",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "oH6xsXFB"
+        },
+        {
+          "createdAt": 1641832130026.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "2. Cruise down the Seine River",
+          "desc": "#Discover the top-rated tickets for the Seine River\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/paris-1-hour-illuminations-river-cruise-t193898/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\nOpen 365 days a year\n\n---\n\n###How do I get there?\nTours start at varying locations along the river, which is dotted with other top attractions.\n\n---\n\n##Insider tips\n\n###What should I wear\nEven if all's calm on the City of Love's streets, its river is exposed  — and so are you! Bring a good jacket and sunscreen to keep yourself protected.\n\n---\n\n###How long is it?\n776 kilometers (482 miles). Oh wait, you meant the cruise? With dinner and entertainment, you could be looking at up to 4 hours, but a simple sightseeing tour should only take an hour.",
+          "members": [],
+          "labelsIds": ["d6cjhb"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#331f19",
+            "size": "",
+            "imgs": [
+              {
+                "id": "V4tKCjcm",
+                "url": "https://images.unsplash.com/photo-1619369464529-fb194de62e9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw4fHxDcnVpc2UlMjBkb3duJTIwdGhlJTIwU2VpbmUlMjBSaXZlcnxlbnwwfHx8fDE2NDE5MjE2MDg&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "V4tKCjcm"
+          },
+          "archiveAt": 0,
+          "id": "eeJyrZfL"
+        },
+        {
+          "createdAt": 1641832474732.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "3. See a show at the Moulin Rouge",
+          "desc": "#Discover the top-rated tickets for the Moulin Rouge \n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/moulin-rouge-show-with-champagne-t189477/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\nMoulin Rouge is open all year, except for major holidays such as Christmas and Easter. Opening hours from 7PM.\n\n---\n \n###How do I get there?\nMoulin Rouge is located at 82 Boulevard Clichy — the nearest metro station, on line 2, is Blanche.\n\n---\n\n##Insider tips\n\n###Dress code\nAs a high-class venue, the Moulin Rouge expects visitors to come smartly dressed. A jacket and tie for men is appreciated, while shorts, sports clothing, and sneakers are not allowed.\n \n---\n\n###First-come, first-served\nAlthough it is necessary to reserve your tickets for the show and dinner, tables are assigned on a first-come, first-served basis. It's worth arriving early to score a good table near the stage to best admire the spectacular dances, lavish costumes, and elaborate sets.\n",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "U7d2vL9c"
+        },
+        {
+          "createdAt": 1641921666079.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "4. Visit the Musee du Louvre",
+          "desc": "#Discover the top-rated tickets for the Musee du Louvre \n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/ultimate-louvre-2-hour-skip-the-queue-guided-tour-t175122/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\nMonday, Thursday, Saturday, Sunday, 9:00 AM-6:00 PM\nWednesday, Friday, 9:00 AM-9:45 PM\nHoliday hours may vary\n\n---\n\n###How do I get there?\nTake the metro on line 1 to the Palais-Royal–Musée du Louvre station. The Paris Open Tour bus also stops at the Pyramid.\n\n---\n\n##Insider tips\n###Give yourself plenty of time\nThe museum is gigantic, so it’s essential to make sure you have enough time to see everything you want. The museum is open from 9:00 AM until 6:00 PM on most days, and until 9:45 PM on Wednesdays and Fridays. Arrive early, grab one of the free maps at the ticket purchase area, and take some time to plan your visit — it’s worth it!\n\n---\n\n###Watch out for Tuesdays!\nTogether with a number of Paris’ museums, the Louvre is closed on Tuesdays. Take this opportunity to visit other sights such as the Eiffel Tower or the Arc de Triomphe and come back on another day!",
+          "members": [],
+          "labelsIds": ["rZnFvJ"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "1OraoQOh"
+        },
+        {
+          "createdAt": 1641921708228.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "5. Go to the Palace of Versailles",
+          "desc": "#Discover the top-rated activities at the Palace of Versailles\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/palace-of-versailles-full-access-passport-ticket-t59565/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\nMonday, Thursday, Saturday, Sunday, 9:00 AM-6:00 PM\nWednesday, Friday, 9:00 AM-9:45 PM\n\n---\n\n###How do I get there?\nTake the metro on line 1 to the Palais-Royal–Musée du Louvre station. The Paris Open Tour bus also stops at the Pyramid.\n\n---\n##Insider tips\n###Avoid Mondays\nWhen planning your visit to the Palace of Versailles, keep in mind that the palace is closed on Mondays. On every other day, the visiting hours are from 9:00 AM to 5:30 PM, and from April until October, they're extended to 6:30 PM.\n\n---\n\n###Fountain Show\nThe Palace of Versailles' musical fountain shows are quite simply awe-inspiring. They're held from April until October, on every weekend and public holiday from 11:00 AM to 12:00 PM and again from 3:30 PM to 5:00 PM. It's absolutely worth scheduling your visit for the fountain shows.\n",
+          "members": [],
+          "labelsIds": ["kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "o3SlF9yY"
+        },
+        {
+          "createdAt": 1641921756651.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "6. Meet Goofy at Disneyland Paris",
+          "desc": "#Discover top-rated activities at Disneyland Paris \n\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/disneyland-paris-2-parks-ticket-1-2-3-4-5-day-t19562/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\nThe park is usually open from 9:00 AM - 8:00 PM.\n\n---\n\n###How do I get there?\nDisneyland Paris is located about 20 miles outside of the city. The closest train station is Marne-la-Vallée/Chessy, which is conveniently served by Eurostar trains. Direct shuttle buses are available from all Paris airports.\n\n---\n##Insider tips\n###How many days?\nTo get the most out of your visit you'll probably need to spend a minimum of 2 days there, though plan for at least 3 if you're bringing children during peak season.\n\n---\n\n**How much spending money**\nA family of four can expect to spend around €200-€300 a day on food and drinks alone, although booking a set menu in advance can save you both money and time. The rest depends on how mad you plan to go in the shops!",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "pe2BQrFu"
+        },
+        {
+          "createdAt": 1641921806962.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "7. Explore the Paris Catacombs",
+          "desc": "#Discover top-rated activities at the Paris Catacombs \n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/paris-catacombs-skip-the-line-ticket-t66985/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n##Good to know\n\n###When should I visit?\nTuesday to Sunday, 10:00 AM to 8:30 PM\nHoliday hours may vary\n\n---\n\n###How do I get there?\nDenfert-Rochereau, accessible on metro line 2 as well as RER B, is the nearest station.\n\n---\n##Insider tips\n###Best time to go\nIf you want to avoid waiting in line for hours, your best bet is to book a skip-the-line guided tour in advance. Failing that, arriving 30 minutes to an hour before it opens will cut the wait significantly.\n\n---\n\n**What to wear**\nThe chances of getting dirty are high, so dress down and wear comfortable shoes. Rest assured that there'll be at least six million people down there looking worse than you do!",
+          "members": [],
+          "labelsIds": ["kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "2y4KYBEm"
+        },
+        {
+          "createdAt": 1641921834579.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "8. Marvel at Notre Dame Cathedral",
+          "desc": "#Discover the top-rated tickets for Notre Dame Cathedral\n\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/notre-dame-ile-de-la-cite-tour-with-sainte-chapelle-t56621/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\n8:00 AM to 6:45 PM on weekdays\n8:00 AM to 7:15 PM at weekends\n\n---\n\n###How do I get there?\nThere are several metro stations in the vicinity of Notre Dame — on lines 1, 4, 7, 10, 11, and 14. The most immediate is Cité on the 4 line.\n\n---\n##Insider tips\n\n**How many steps to the top of the tower?**\nThere are 387 steps to reach the panoramas over Paris and see the gargoyles up close, so it's best to know your physical limits.\n\n---\n\n**Mass times**\nOn Sundays, all masses are held at the main altar. Arrive at least 10 minutes before the start time to get a seat. All services are held in French. Masses are also held throughout the week.",
+          "members": [],
+          "labelsIds": ["kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "WXlbgsI6"
+        },
+        {
+          "createdAt": 1641921866893.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "9. Admire the Arc de Triomphe",
+          "desc": "#Discover top-rated tickets for the Arc de Triomphe \n\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/paris-skip-the-line-arc-de-triomphe-tickets-t66157/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n---\n\n##Good to know\n\n###When should I visit?\n10:00 AM to 11:00 PM peak season\n10:00 AM to 10:30 PM off-season\n\n---\n\n###How do I get there?\nThe Metro line 1 to Argentine and George V\nLine 2 to Ternes\nLine 6 to Kléber\n\n---\n##Insider tips\n\n###Visit at night\nThe Arc de Triomphe looks most spectacular at night, and the eternal flame that marks the Tomb of the Unknown Soldier is most visible then. At a height of 50 meters (164 feet), visitors can climb to the top and gaze down the surrounding illuminated boulevards. ",
+          "members": [],
+          "labelsIds": ["oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "size": "",
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "921TaFxW"
+        }
+      ],
+      "style": {},
+      "id": "tfONhK5K"
+    },
+    {
+      "title": "48 hours in Paris: Day 1 🇫🇷",
+      "cards": [
+        {
+          "createdAt": 1641921951254.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "10:00 AM — Grab a croissant to go and skip the line at the Louvre. Head straight to the Mona Lisa before the crowds hit.",
+          "desc": "##**Our top pick:**\n\n###Paris: Louvre Museum Timed Entrance Ticket \n\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/ultimate-louvre-2-hour-skip-the-queue-guided-tour-t175122/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n\n⭑⭑⭑⭑⭒ 4.7/5",
+          "members": [],
+          "labelsIds": ["rZnFvJ"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#493f30",
+            "size": "",
+            "imgs": [
+              {
+                "id": "o8O2Lp0o",
+                "url": "https://images.unsplash.com/photo-1607857531075-d81f84c465d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxNb25hJTIwTGlzYXxlbnwwfHx8fDE2NDE5MjE5OTQ&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "o8O2Lp0o",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "Q8bIeU4F"
+        },
+        {
+          "createdAt": 1641922017571.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "2:00 PM — Get spooky with priority access to the Paris Catacombs (home to over 6 million skeletons).",
+          "desc": "##Our top pick:\n\n\n ###Paris Catacombs Skip-the-Line Ticket with Audio Guide \n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/paris-catacombs-skip-the-line-ticket-t66985/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n⭑⭑⭑⭑⭒ 4.5/5",
+          "members": [],
+          "labelsIds": ["kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641923431774.0,
+              "url": "http://res.cloudinary.com/zivtal/image/upload/v1641923431/Catacombs-2019.07.26-48h-in-Paris-GetYourGuide_qyf1ox.jpg",
+              "fileName": "Catacombs-2019.07.26-48h-in-Paris-GetYourGuide",
+              "type": "image",
+              "suffix": "jpg",
+              "id": "0oZ9SFc1"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#170e0d",
+            "size": "",
+            "imgs": [
+              {
+                "id": "hWlfQEST",
+                "url": "http://res.cloudinary.com/zivtal/image/upload/v1641923431/Catacombs-2019.07.26-48h-in-Paris-GetYourGuide_qyf1ox.jpg",
+                "isFull": false
+              }
+            ],
+            "imgId": "hWlfQEST",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "JMzLcAaz",
+          "undefined": null
+        },
+        {
+          "createdAt": 1641922686352.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "7:00 PM — Cruise along the Seine on a romantic river tour by night. That's when the city of light comes to life...",
+          "desc": "##Our top pick:\n\n###Paris: 1-Hour Illuminations River Cruise \n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/paris-1-hour-illuminations-river-cruise-t193898/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n⭑⭑⭑⭑⭒ 4.3/5",
+          "members": [],
+          "labelsIds": ["d6cjhb"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#686156",
+            "size": "",
+            "imgs": [
+              {
+                "id": "Cb4cgHen",
+                "url": "https://images.unsplash.com/photo-1567187155374-cd9135b1f247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxDcnVpc2UlMjBwYXJpc3xlbnwwfHx8fDE2NDE5MjI3NDg&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "Cb4cgHen",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "9QOieSFx"
+        }
+      ],
+      "style": {},
+      "id": "PTDEJRtX"
+    },
+    {
+      "title": "48 hours in Paris: Day 2 🇫🇷",
+      "cards": [
+        {
+          "createdAt": 1641922776496.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "10:00 AM — Feel like a king or queen as you breeze past the crowds at Versailles.",
+          "desc": "##Our top pick:\n\n###Versailles Palace & Gardens Full Access Ticket & Audio Guide\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/palace-of-versailles-full-access-passport-ticket-t59565/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n⭑⭑⭑⭑⭒ 4.2/5",
+          "members": [],
+          "labelsIds": ["kT8v8m"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#9f9884",
+            "size": "",
+            "imgs": [
+              {
+                "id": "NUxZrDDm",
+                "url": "https://images.unsplash.com/photo-1595841044697-86e94ea53c77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxWZXJzYWlsbGVzfGVufDB8fHx8MTY0MTkyMjc4Nw&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "NUxZrDDm",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "gvvY9ozk"
+        },
+        {
+          "createdAt": 1641922822084.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "3:00 PM — See and be seen as you stroll along the Champs-Elysees. Shop at Dior, Chanel, and grab macarons at Laduree.",
+          "desc": "##Our top pick:\n###Paris: Skip-the-Line Arc de Triomphe Rooftop Tickets\n\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/paris-skip-the-line-arc-de-triomphe-tickets-t66157/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n⭑⭑⭑⭑⭒ 4.7/5",
+          "members": [],
+          "labelsIds": ["oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#816c62",
+            "size": "",
+            "imgs": [
+              {
+                "id": "EzTnDsAr",
+                "url": "https://images.unsplash.com/photo-1567502401034-b947ee46e249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxDaGFtcHMtRWx5c2Vlc3xlbnwwfHx8fDE2NDE5MjI4NTQ&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "EzTnDsAr",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "PKTtm8cF"
+        },
+        {
+          "createdAt": 1641922950156.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "8:00 PM — We've saved the best for last. Fall in love with the city skyline with exclusive access to the Eiffel Tower.",
+          "desc": "##Our top pick:\n###Eiffel Tower: Second Floor Priority Access\n**Book the tour from [here](https://www.getyourguide.co.uk/paris-l16/eiffel-tower-tickets-second-floor-priority-access-summit-t130203/?partner_id=VTMRM8Z&utm_medium=platforms_and_communities&utm_source=trello_-_internal&placement=other&cmp=trelloboard).**\n⭑⭑⭑⭑⭒ 4.3/5",
+          "members": [],
+          "labelsIds": ["oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#89827e",
+            "size": "",
+            "imgs": [
+              {
+                "id": "MrUOFQsC",
+                "url": "https://images.unsplash.com/photo-1625398123667-5074c4622c25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxlaWZmZWwlMjB0b3dlciUyMGRheXxlbnwwfHx8fDE2NDE5MjI5OTA&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "MrUOFQsC",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "GHHeoNyA"
+        }
+      ],
+      "style": {},
+      "id": "GGAisdrK"
+    },
+    {
+      "title": "About GetYourGuide 🎫",
+      "cards": [
+        {
+          "createdAt": 1641923046468.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Discover thousands of unique and unmissable things to do around the world with GetYourGuide.",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641923245492.0,
+              "url": "http://res.cloudinary.com/zivtal/image/upload/v1641923245/GetYourGuide-app-Paris_2x_klutps.png",
+              "fileName": "GetYourGuide-app-Paris@2x",
+              "type": "image",
+              "suffix": "png",
+              "id": "U8EmgouY"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#afa6a0",
+            "size": "",
+            "imgs": [
+              {
+                "id": "8jOXcidC",
+                "url": "http://res.cloudinary.com/zivtal/image/upload/v1641923245/GetYourGuide-app-Paris_2x_klutps.png",
+                "isFull": false
+              }
+            ],
+            "imgId": "8jOXcidC"
+          },
+          "archiveAt": 0,
+          "id": "I6FCQ6A5"
+        },
+        {
+          "createdAt": 1641923351031.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "WhatsApp chat: +49 151 23457858",
+          "desc": "Get in touch with us:\nhttps://www.getyourguide.com/contact/",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#66bdba",
+            "size": "",
+            "imgs": [
+              {
+                "id": "58OJPNLx",
+                "url": "https://images.unsplash.com/photo-1633354931133-27ac1ee5d853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw4fHx3aGF0c2FwcHxlbnwwfHx8fDE2NDE5MjMzOTI&ixlib=rb-1.2.1&q=80&w=400",
+                "isFull": false
+              }
+            ],
+            "imgId": "58OJPNLx",
+            "isFull": true
+          },
+          "archiveAt": 0,
+          "id": "Vp54fdiJ"
+        }
+      ],
+      "style": {},
+      "id": "fJzjdZ0j"
+    }
+  ],
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "isFavorite": false,
+  "activityCount": 1,
+  "lastActivity": 1642358541574.0
+}

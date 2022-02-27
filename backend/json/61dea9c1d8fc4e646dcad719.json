@@ -1,0 +1,346 @@
+{
+  "_id": "61dea9c1d8fc4e646dcad719",
+  "title": "Video Production",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1632187989763-c9c620420b4d?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw3fHxWaWRlbyUyMFByb2R1Y3Rpb258ZW58MHx8fHwxNjQyMjc3NzQ0&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1632187989763-c9c620420b4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw3fHxWaWRlbyUyMFByb2R1Y3Rpb258ZW58MHx8fHwxNjQyMjc3NzQ0&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": true,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4d801c1d9389a63a75587",
+    "username": "zivtal",
+    "fullname": "Ziv Tal",
+    "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+  },
+  "members": [
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+    },
+    {
+      "_id": "61b4770c7b8e935e82f30212",
+      "username": "amirinbar",
+      "fullname": "Amir Inbar",
+      "imgUrl": "https://lh3.googleusercontent.com/a-/AOh14GiJ70ctVlIg29JncAhgQTH6Jo22NtXQNdT5LK4u=s96-c",
+      "createdAt": "2021-12-11T10:01:48.000Z"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null,
+      "createdAt": "2021-12-11T16:17:28.000Z"
+    }
+  ],
+  "activities": [],
+  "createdAt": 1641761738202.0,
+  "labels": [
+    {
+      "title": "Manager task",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Low priority",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Medium priority",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "High priority",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Bug",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "Adjustment",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    },
+    {
+      "title": "All",
+      "color": "#ff78cb",
+      "id": "kT8v8m"
+    },
+    {
+      "title": "styles",
+      "color": "#b3bac5",
+      "id": "AYKlTC"
+    }
+  ],
+  "lists": [
+    {
+      "id": "dTisZ9Vk",
+      "title": "Script Writing",
+      "cards": [
+        {
+          "createdAt": 1641761764413.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Add your first video name below and move it to the next step once your done!",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#e9e8e6",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "IRkag2Fd",
+                "url": "https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHx3cml0ZXxlbnwwfHx8fDE2NDE3NjE3OTQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "IRkag2Fd"
+          },
+          "archiveAt": 0,
+          "id": "XdWwNjss",
+          "undefined": null
+        },
+        {
+          "createdAt": 1641761836818.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "You can add multiple if you wish! Make sure to use labels (it's like colour coding, also make sure to replace this with your first title).",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": false,
+            "imgs": [],
+            "imgId": null
+          },
+          "archiveAt": 0,
+          "id": "OOYSYVGc"
+        }
+      ],
+      "style": {}
+    },
+    {
+      "title": "Check your planning is all good!",
+      "cards": [
+        {
+          "createdAt": 1641761887330.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Check your planning is all good!",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#747347",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "xvoSm8cR",
+                "url": "https://images.unsplash.com/photo-1586985564259-6211deb4c122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHx2aWRlbyUyMGNvbmZ8ZW58MHx8fHwxNjQxNzYxOTEw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "xvoSm8cR"
+          },
+          "archiveAt": 0,
+          "id": "vU7AijTk"
+        }
+      ],
+      "style": {},
+      "id": "cJaTpTLV"
+    },
+    {
+      "title": "Video Shoot",
+      "cards": [
+        {
+          "createdAt": 1641761931916.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Film first day",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": {
+            "address": {
+              "longAddress": "Tel Aviv-Yafo, Israel",
+              "shortAddress": "Tel Aviv-Yafo"
+            },
+            "lat": 32.0852999,
+            "lng": 34.7817676,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=32.0852999,34.78176759999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|32.0852999,34.78176759999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#252733",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "UHSYwTum",
+                "url": "https://images.unsplash.com/photo-1544971587-b842c27f8e14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwyfHx0ZWwlMjBhdml2fGVufDB8fHx8MTY0MTc2MTk2Mw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "UHSYwTum"
+          },
+          "archiveAt": 0,
+          "id": "KJCqcApO"
+        }
+      ],
+      "style": {},
+      "id": "Qc3mDMk3"
+    },
+    {
+      "title": "Video Editing/Thumbnail Creation",
+      "cards": [
+        {
+          "createdAt": 1641761989566.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Make the video look appealing and clean, alongside an attractive thumbnail if your planning on posting it on a social media website like youtube!",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#605456",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "BuWYLMK8",
+                "url": "https://images.unsplash.com/photo-1536240478700-b869070f9279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw0fHxmaW5hbCUyMGN1dCUyMHByb3xlbnwwfHx8fDE2NDE3NjIwMDg&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "BuWYLMK8"
+          },
+          "archiveAt": 0,
+          "id": "GDCLIUMM"
+        }
+      ],
+      "style": {},
+      "id": "4PQNdkib"
+    },
+    {
+      "title": "Publish/Promote",
+      "cards": [
+        {
+          "createdAt": 1641762042235.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Now post and start again! Make sure to keep the videos you've done here so you remind yourself that you can do it!",
+          "desc": "",
+          "members": [],
+          "labelsIds": [],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#030102",
+            "isFull": false,
+            "imgs": [
+              {
+                "id": "kKXJzZAe",
+                "url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw3fHxjaW5lbWElMjByZWxlYXNlfGVufDB8fHx8MTY0MTc2MjA2MQ&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "kKXJzZAe"
+          },
+          "archiveAt": 0,
+          "id": "cXasMRX9"
+        }
+      ],
+      "style": {},
+      "id": "iT5yAyJv"
+    }
+  ],
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "activityCount": 1,
+  "lastActivity": 1642358923132.0,
+  "isFavorite": true
+}

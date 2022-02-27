@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-socket.io-session": "^1.3.5",
+    "mongodb": "^4.2.0",
+    "socket.io": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "serve": "nodemon --ignore \"./data\" server.js"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Manager task",
+    "color": "#61bd4f"
+  },
+  {
+    "title": "Low priority",
+    "color": "#f2d600"
+  },
+  {
+    "title": "Medium priority",
+    "color": "#ff9f1a"
+  },
+  {
+    "title": "High priority",
+    "color": "#eb5a46"
+  },
+  {
+    "title": "Bug",
+    "color": "#c377e0"
+  },
+  {
+    "title": "Adjustment",
+    "color": "#0079bf"
+  },
+  {
+    "title": "All",
+    "color": "#ff78cb"
+  },
+  {
+    "title": "Styles",
+    "color": "#b3bac5"
+  }
+]

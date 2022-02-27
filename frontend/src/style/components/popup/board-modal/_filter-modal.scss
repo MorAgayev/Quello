@@ -1,0 +1,226 @@
+.filter-modal {
+  z-index: 1;
+  position: fixed;
+  top: 44px;
+  right: 0;
+  background-color: $clr5;
+  width: 384px;
+  border-radius: 3px;
+  overflow-y: auto;
+  height: 90vh;
+
+  .filter-header {
+    margin: 12px;
+    padding: 6px 0 12px 0;
+    border-bottom: 0.5px solid #091e4221;
+
+    h4 {
+      margin: 0;
+      flex-grow: 1;
+      text-align: center;
+      color: #5e6c84;
+    }
+
+    span {
+      &::before {
+        font-family: trello;
+        content: "\e91b";
+        font-size: 16px;
+      }
+    }
+  }
+
+  .content {
+    padding: 12px;
+    padding-top: 0;
+    > * {
+      margin-top: 8px;
+    }
+
+    label {
+      font-weight: 600;
+      font-size: 12px;
+      color: #5e6c84;
+    }
+
+    .label-item {
+      cursor: pointer;
+      height: 32px;
+      border-radius: 3px;
+      margin-bottom: 4px;
+      transition: padding 85ms, margin 85ms, box-shadow 85ms;
+      display: flex;
+      justify-content: space-between;
+      span {
+        color: $clr5;
+        border-radius: 3px;
+        cursor: pointer;
+        font-weight: 700;
+        margin: 0 0 4px;
+        min-height: 20px;
+        padding: 6px 12px;
+        position: relative;
+        transition: padding 85ms, margin 85ms, box-shadow 85ms;
+      }
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .search {
+      input {
+        margin: 8px 0;
+        display: block;
+        line-height: 20px;
+        padding: 8px 12px;
+        background-color: #fafbfc;
+        border: none;
+        outline: none;
+        border-radius: 3px;
+        box-shadow: inset 0 0 0 2px #dfe1e6;
+        font-size: 12px;
+        transition-duration: 85ms;
+        transition-property: background-color, border-color, box-shadow;
+        transition-timing-function: ease;
+        color: rgb(23, 43, 77);
+
+        &:hover {
+          background-color: #ebecf0;
+          box-shadow: inset 0 0 0 2px #dfe1e6;
+        }
+
+        &:focus {
+          background-color: $clr5;
+          box-shadow: inset 0 0 0 2px #0079bf;
+        }
+      }
+
+      span {
+        font-size: 12px;
+        color: #5e6c84;
+      }
+    }
+
+    .members {
+      ul li div {
+        display: flex;
+        gap: 5px;
+        margin-bottom: 4px;
+        input {
+          height: 16px;
+          width: 16px;
+        }
+      }
+    }
+
+    .due-date {
+      ul {
+        li {
+          display: flex;
+          align-items: center;
+          gap: 5px;
+          margin-bottom: 8px;
+
+          input {
+            height: 16px;
+            width: 16px;
+          }
+
+          .no-due-icon {
+            height: 24px;
+            width: 24px;
+            position: relative;
+            background-color: #ebecf0;
+            border-radius: 50%;
+            &::before {
+              font-family: trello;
+              content: "\e978";
+              font-size: 16px;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+            }
+          }
+
+          .over-due-icon {
+            height: 24px;
+            width: 24px;
+            position: relative;
+            background-color: rgb(235, 90, 70);
+            color: $clr5;
+            border-radius: 50%;
+            &::before {
+              font-family: trello;
+              content: "\e91a";
+              font-size: 16px;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+            }
+          }
+
+          .next-due-icon {
+            height: 24px;
+            width: 24px;
+            position: relative;
+            background-color: rgb(242, 214, 0);
+            color: $clr5;
+            border-radius: 50%;
+            &::before {
+              font-family: trello;
+              content: "\e91a";
+              font-size: 16px;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+            }
+          }
+        }
+      }
+    }
+
+    .labels {
+      label {
+        display: flex;
+        align-items: center;
+        padding-bottom: 8px;
+        font-weight: 400;
+        &:hover {
+          filter: contrast(0.7);
+        }
+
+        .no-labels-icon {
+          margin: 0 2px 0 5px;
+          height: 20px;
+          width: 20px;
+          position: relative;
+          &::before {
+            font-family: trello;
+            content: "\e93e";
+            font-size: 16px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+          }
+        }
+
+        input {
+          height: 16px;
+          width: 16px;
+        }
+        .label {
+          margin-left: 5px;
+          height: 32px;
+          width: 100%;
+          border-radius: 3px;
+        }
+      }
+    }
+  }
+}

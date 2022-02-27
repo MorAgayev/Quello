@@ -1,0 +1,673 @@
+{
+  "_id": "61debc360f00b72a8c131ebd",
+  "title": "My son's 7th birthday",
+  "style": {
+    "type": "img",
+    "backgroundImage": "url(https://images.unsplash.com/photo-1599076980652-7ee5b5fd633a?crop=entropy&cs=srgb&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw1fHxkaXNuZXklMjBwYXJpc3xlbnwwfHx8fDE2NDIzNTkwNTQ&ixlib=rb-1.2.1&q=85)",
+    "backgroundThumb": "url(https://images.unsplash.com/photo-1599076980652-7ee5b5fd633a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHw1fHxkaXNuZXklMjBwYXJpc3xlbnwwfHx8fDE2NDIzNTkwNTQ&ixlib=rb-1.2.1&q=80&w=200)",
+    "isDark": true,
+    "customImages": []
+  },
+  "createdBy": {
+    "_id": "61b4d801c1d9389a63a75587",
+    "username": "zivtal",
+    "fullname": "Ziv Tal",
+    "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+  },
+  "members": [
+    {
+      "_id": "61b4d801c1d9389a63a75587",
+      "username": "zivtal",
+      "fullname": "Ziv Tal",
+      "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+    },
+    {
+      "_id": "61b4cf185cda39ade9f822bc",
+      "username": "Guest",
+      "fullname": "Guest",
+      "imgUrl": null
+    }
+  ],
+  "activities": [],
+  "createdAt": 1641987126697.0,
+  "labels": [
+    {
+      "title": "All ages",
+      "color": "#61bd4f",
+      "id": "JsY1qR"
+    },
+    {
+      "title": "Kids",
+      "color": "#f2d600",
+      "id": "d6cjhb"
+    },
+    {
+      "title": "Tweens",
+      "color": "#ff9f1a",
+      "id": "YIQPhe"
+    },
+    {
+      "title": "Adult",
+      "color": "#eb5a46",
+      "id": "DNfXVp"
+    },
+    {
+      "title": "Teens",
+      "color": "#c377e0",
+      "id": "oKpZV4"
+    },
+    {
+      "title": "To do",
+      "color": "#0079bf",
+      "id": "rZnFvJ"
+    }
+  ],
+  "lists": [
+    {
+      "id": "IJpM86WJ",
+      "title": "1st day",
+      "cards": [
+        {
+          "createdAt": 1641987185575.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Landing at 2:00 p.m.",
+          "desc": "I went out for 72 hours at Disneyland Paris for a few days of fun fun! I went out with my son in honor of his 7th birthday, a Disney fan, it was a pretty impulsive trip for me - we booked it just 3 weeks before and it was just great, we stayed at the [Magic Circus](https://www.magiccircus-hotel.com/en/?gclid=CjwKCAiAlfqOBhAeEiwAYi43F0E_PkR1eYkRaNl0PstvtC93JyOorvuRt3SytLr880ccnwNQmRZyGhoCte8QAvD_BwE), one of Disneyland’s partner hotels as we got an excellent deal. The Magic Circus also benefits from the partner hotel shuttle bus which runs every 10 minutes at peak time!\n\n<<youtube:SZ1pXiOuivY>>",
+          "members": [],
+          "labelsIds": ["JsY1qR", "d6cjhb", "YIQPhe", "oKpZV4", "DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641992289780.0,
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/39/93/0e/magic-circus-hotel.jpg",
+              "fileName": "magic-circus-hotel.jpg",
+              "type": "image",
+              "suffix": "jpg",
+              "id": "9tknRmny"
+            }
+          ],
+          "location": {
+            "address": {
+              "longAddress": "20 Av. de la Fosse des Pressoirs, 77700 Magny-le-Hongre, France",
+              "shortAddress": "20"
+            },
+            "lat": 48.8720842,
+            "lng": 2.8080576,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=48.8720842,2.808057599999999&zoom=12&size=512x160&markers=color:red|size:mid|label:|48.8720842,2.808057599999999&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#d43b1b",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "3mEwotPj",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/39/93/0e/magic-circus-hotel.jpg"
+              }
+            ],
+            "imgId": "3mEwotPj"
+          },
+          "archiveAt": 0,
+          "id": "ORMF0VJT"
+        },
+        {
+          "createdAt": 1641987955117.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "On our first morning we headed straight to the Disney office",
+          "desc": "We bought an annual tickets, it was a deal of excellence if we compare it to a daily tickets.",
+          "members": [],
+          "labelsIds": ["rZnFvJ"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641992053012.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n035309_2024jul05_world_disney-premier-access-screen-btm_16-9_tcm795-225707.jpg?w=960",
+              "fileName": "n035309_2024jul05_world_disney-premier-access-screen-btm_16-9_tcm795-225707.jpg?w=960",
+              "type": "image",
+              "suffix": "jpg?w=960",
+              "id": "B6Y2eMJu"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#0f3f63",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "eTj65pa9",
+                "url": "https://media.disneylandparis.com/d4th/en-us/images/n035309_2024jul05_world_disney-premier-access-screen-btm_16-9_tcm795-225707.jpg?w=960"
+              }
+            ],
+            "imgId": "eTj65pa9"
+          },
+          "archiveAt": 0,
+          "id": "OL5kV9s5"
+        },
+        {
+          "createdAt": 1641988277203.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "First day at disney park",
+          "desc": "This trip was a really nice mix of character meets, rides and photo opportunities.  We managed to go on all the big rides in Disneyland Park.",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641992090223.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/hd15678_2025aug10_world_brochure-fy21-key-visual-all-vip-characters-castle-kaleidoscope_16-9_tcm795-220291.jpg?w=960",
+              "fileName": "hd15678_2025aug10_world_brochure-fy21-key-visual-all-vip-characters-castle-kaleidoscope_16-9_tcm795-220291.jpg?w=960",
+              "type": "image",
+              "suffix": "jpg?w=960",
+              "id": "jEFAohDb"
+            }
+          ],
+          "location": {
+            "address": {
+              "longAddress": "Bd de Parc, 77700 Coupvray, France",
+              "shortAddress": "Bd de Parc"
+            },
+            "lat": 48.8673858,
+            "lng": 2.783593,
+            "title": "",
+            "api": "https://maps.googleapis.com/maps/api/staticmap?center=48.8673858,2.783593&zoom=12&size=512x160&markers=color:red|size:mid|label:|48.8673858,2.783593&sensor=false&key=AIzaSyCsws2HKpTeFtrOSEHhq1Elss5JpUYK4pQ&scale=2"
+          },
+          "canvas": [],
+          "cover": {
+            "color": "#eccdca",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "AUSFzGTQ",
+                "url": "https://media.disneylandparis.com/d4th/en-us/images/hd15678_2025aug10_world_brochure-fy21-key-visual-all-vip-characters-castle-kaleidoscope_16-9_tcm795-220291.jpg?w=960"
+              }
+            ],
+            "imgId": "AUSFzGTQ"
+          },
+          "archiveAt": 0,
+          "id": "ctxranDz"
+        }
+      ],
+      "style": {}
+    },
+    {
+      "title": "2nd day",
+      "cards": [
+        {
+          "createdAt": 1641989023299.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Visit Sleeping Beauty Castle",
+          "desc": "###Dreams come alive when little faces are first lit up by this world-famous, iconic Disney landmark. Sleeping Beauty Castle has been recently renovated and now shines brighter than ever to make your dreams come true for many years to come!\n\n###**Sleeping Beauty Castle: A Fairytale Come True**\nRising high in the sky at the end of Main Street, U.S.A®, Sleeping Beauty Castle welcomes you to a magical world of fantasy and fun. The central icon of Disneyland Paris, the Castle invites all who visit to celebrate in a place where dreams come true.\n\n###**Disneyland Park**\nFantasyland\n\n###**Guest Must Be**\nAny Height\n\n###**Age Interest**\nAll Ages, Preschoolers",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#9c7379",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "tB0eas4m",
+                "url": "https://images.unsplash.com/photo-1585488322438-211f7b8766c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwzfHxTbGVlcGluZyUyMEJlYXV0eSUyMENhc3RsZXxlbnwwfHx8fDE2NDE5OTA4NzY&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "tB0eas4m"
+          },
+          "archiveAt": 0,
+          "id": "7LPKcwnj"
+        },
+        {
+          "createdAt": 1641991170185.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Buzz Lightyear Laser Blast",
+          "desc": "##**Buzz Lightyear Laser Blast: to infinity and beyond!**\n###Evil Emperor Zurg is stealing batteries from helpless toys to power a new weapon of destruction—and Buzz Lightyear needs your help! As a Junior Space Ranger, it's up to you to manoeuvre an XP-40 space cruiser through the shadowy Gamma Quadrant and fire lasers from an onboard cannon to stop Zurg and score points.\n\n<<youtube:J0Gw8GZ9MKk>>\n\n###**Based on the Hit Movies**\nBuzz Lightyear Laser Blast is an exciting ride into space that continues the epic battle between Buzz Lightyear and Evil Emperor Zurg, as seen in the popular Disney Pixar Toy Story film series.\n\n###**Disneyland Park**\nDiscoveryland\n\n###**Guest Must Be**\nAny Height\n\n###**Age Interest**\nKids, Tweens, Teens, Adults, Preschoolers",
+          "members": [],
+          "labelsIds": ["d6cjhb", "YIQPhe", "DNfXVp", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641991892322.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n035463_2050dec31_world_buzz-lightyear-laser-blast-attraction-front-blue-version_16-9_tcm795-157036.jpg?w=1960",
+              "fileName": "n035463_2050dec31_world_buzz-lightyear-laser-blast-attraction-front-blue-version_16-9_tcm795-157036.jpg?w=1960",
+              "type": "image",
+              "suffix": "jpg?w=1960",
+              "id": "alYtgUa8"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#0079bf",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "SWlID8BX",
+                "url": "https://media.disneylandparis.com/d4th/en-us/images/n035463_2050dec31_world_buzz-lightyear-laser-blast-attraction-front-blue-version_16-9_tcm795-157036.jpg?w=1960"
+              }
+            ],
+            "imgId": "SWlID8BX"
+          },
+          "archiveAt": 0,
+          "id": "445M4R0z"
+        },
+        {
+          "createdAt": 1641992438171.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Meet Mickey Mouse",
+          "desc": "###Head backstage to meet magician [Mickey]() in between shows, snap a photo and discover some truly magical Disney tricks and secrets.\n\n###**Mickey Mouse: the Most Magical of Character Experiences**\nThis is no illusion. Magician Mickey Mouse has invited you to his dressing room for a chat and a look at his favourite magic tricks, costumes and props. You'll discover the crow's feather that helped make [Dumbo](https://www.disneylandparis.com/en-int/attractions/disneyland-park/dumbo-the-flying-elephant/) fly, Mickey's hat from Fantasia and a collection of tools used in the most daring of escapades. Mickey may even perform a card trick or two before posing for the most magical moment of them all—a photo with your own little stars.\n\n###**Disneyland Park**\nFantasyland\n\n###**Guest Must Be**\nAny Height\n\n###**Age Interest**\nAll Ages, Preschoolers",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641992459853.0,
+              "url": "https://media.disneylandparis.com/d4th/en-int/images/n013027_2019jun30_meet-mickey_16-9_tcm787-158628.jpg?w=1960",
+              "fileName": "n013027_2019jun30_meet-mickey_16-9_tcm787-158628.jpg?w=1960",
+              "type": "image",
+              "suffix": "jpg?w=1960",
+              "id": "wEUoEs1I"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#ff9f1a",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "AScAqCgv",
+                "url": "https://media.disneylandparis.com/d4th/en-int/images/n013027_2019jun30_meet-mickey_16-9_tcm787-158628.jpg?w=1960"
+              }
+            ],
+            "imgId": "AScAqCgv"
+          },
+          "archiveAt": 0,
+          "id": "UVwG5eZt"
+        }
+      ],
+      "style": {},
+      "id": "6WXUpkWW"
+    },
+    {
+      "title": "3rd day",
+      "cards": [
+        {
+          "createdAt": 1641988623043.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Visit disney studio park",
+          "desc": "###**Walt Disney Studios Park**\n\nDive into the breathtaking worlds of Disney and Pixar, where fantastic shows, attractions and special seasons will make you feel you're not watching movies, you're living them!\n\nThere's fun and wonder for little ones and grown ups alike, so get ready to go on some unforgettable adventures.",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641992182267.0,
+              "url": "https://i0.wp.com/www.tripilare.com/us/wp-content/uploads/2019/10/How-is-Walt-Disney-Studios-scaled.jpg?fit=2560%2C1244&ssl=1",
+              "fileName": "How-is-Walt-Disney-Studios-scaled.jpg?fit=2560%2C1244&ssl=1",
+              "type": "image",
+              "suffix": "jpg?fit=2560%2C1244&ssl=1",
+              "id": "arBF8kYQ"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#c2c8d8",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "IETBvtzX",
+                "url": "https://i0.wp.com/www.tripilare.com/us/wp-content/uploads/2019/10/How-is-Walt-Disney-Studios-scaled.jpg?fit=2560%2C1244&ssl=1"
+              }
+            ],
+            "imgId": "IETBvtzX"
+          },
+          "archiveAt": 0,
+          "id": "HIKm1frS"
+        },
+        {
+          "createdAt": 1641988532769.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Watch the new show of 'Mickey and the Magician' in the studio park which started in 2017, and is highly recommended. The show repeats itself several times a day.",
+          "desc": "###**Mickey and the Magician** is a live stage show that premiered in \"Animagique Theater\" at Walt Disney Studios Park since July 2, 2016.\n\nTo illustrate this return to where the magic all began, the creators draw inspiration from the great illusionist Georges Méliès and the famous magician Robert-Houdin. This is not a traditional magic show. The illusions will form the basis of this brand new story. Disneyland Paris has called on the acclaimed magician Paul Kieve to create these illusions. Paul Kieve said that it’s hard to think of the word ‘Disney’ without also thinking of the word ‘Magic’. He became fascinated with magic when he was 10 years old and was always inventing ideas in his head. One of the great things about working on ‘Mickey and the Magician' is that I can bring some of these ideas into reality.\n\n###**Show summary**\nThis 28-minute musical show is set in a great Magician’s atelier in 19th century of Paris, where the assistant is no other than a certain [Mickey](https://disney.fandom.com/wiki/Mickey) (with an [articulated head](https://disney.fandom.com/wiki/Disney_Characters%27_Articulated_Heads)) is given the task of cleaning up the room at night, [Tinker Bell](https://disney.fandom.com/wiki/Tinker_Bell) has spread a little stardust. When he is given the task of cleaning up the atelier before sunrise, the young apprentice gets distracted! Nothing turns out as expected.\n\nMickey finds himself accidentally transported to the most magical worlds, featuring [Cinderella](https://disney.fandom.com/wiki/Cinderella_(1950_film)) ([Fairy Godmother](https://disney.fandom.com/wiki/Fairy_Godmother), Cinderella), [Beauty and the Beast](https://disney.fandom.com/wiki/Beauty_and_the_Beast) ([Lumiere](https://disney.fandom.com/wiki/Lumiere), [Belle](https://disney.fandom.com/wiki/Belle), [Beast](https://disney.fandom.com/wiki/Beast)), [The Lion King](https://disney.fandom.com/wiki/The_Lion_King) ([Rafiki](https://disney.fandom.com/wiki/Rafiki)), [Aladdin](https://disney.fandom.com/wiki/Aladdin_(film)) ([Genie](https://disney.fandom.com/wiki/Genie)), and [Frozen](https://disney.fandom.com/wiki/Frozen) ([Elsa](https://disney.fandom.com/wiki/Elsa), [Olaf](https://disney.fandom.com/wiki/Olaf)).\n\nFinally, Mickey becomes the hero in this incredible show where illusion is key and the audience find themselves plunged into a world of magic and delight.",
+          "members": [],
+          "labelsIds": ["d6cjhb", "YIQPhe", "DNfXVp", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641992229771.0,
+              "url": "https://dlptips.com/wp-content/uploads/Mickey-the-Magician.jpg",
+              "fileName": "Mickey-the-Magician.jpg",
+              "type": "image",
+              "suffix": "jpg",
+              "id": "IyWBecyF"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#bab2bd",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "MH03xhA3",
+                "url": "https://dlptips.com/wp-content/uploads/Mickey-the-Magician.jpg"
+              }
+            ],
+            "imgId": "MH03xhA3"
+          },
+          "archiveAt": 0,
+          "id": "wi5huuU5"
+        },
+        {
+          "createdAt": 1641988826751.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Ratatouille: The Adventure",
+          "desc": "###**Ratatouille: A Recipe for Adventure**\n\nPull your tails in and feast your senses on this 4D experience at Disney Ratatouille. Remy and friends have cooked up a delicious storm. But it's not long before they and you are discovered by Chef Skinner, who chases you through the sights, sounds and smells of Gusteau's famous Parisian restaurant. New for 2014, this is a Disneylicious adventure that's sure to leave you hungry for more.\n\n<<youtube:WtZdXqY1TKs>>\n\nBon appetit!",
+          "members": [],
+          "labelsIds": ["d6cjhb", "YIQPhe", "DNfXVp", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641991381833.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n017729_2050jan01_ratatouille-laventure-completement-toquee_16-9_tcm795-159400.jpg?w=1960",
+              "fileName": "n017729_2050jan01_ratatouille-laventure-completement-toquee_16-9_tcm795-159400.jpg?w=1960",
+              "type": "image",
+              "suffix": "jpg?w=1960",
+              "id": "ZmuoZm3J"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#0079bf",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "cOyb4GqI",
+                "url": "https://media.disneylandparis.com/d4th/en-us/images/n017729_2050jan01_ratatouille-laventure-completement-toquee_16-9_tcm795-159400.jpg?w=1960"
+              }
+            ],
+            "imgId": "cOyb4GqI"
+          },
+          "archiveAt": 0,
+          "id": "UC39oGHj"
+        }
+      ],
+      "style": {},
+      "id": "SDUESQiL"
+    },
+    {
+      "title": "4th day",
+      "cards": [
+        {
+          "createdAt": 1641989231821.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Crush's Coaster",
+          "desc": "###**Crush's Coaster: Finding Thrills in the Deep Blue Sea**\nJoin Crush and friends in Toon Studio®, where you'll find the beached soundstage and set of the Disney Pixar film, Finding Nemo. Then, after taking in the Sydney Harbour scenery, board a turtle shell and prepare for a ride through memorable moments from the movie.\nSit tight, as your shell dives into the ocean and begins its incredible journey. At first Nemo, Squirt and other familiar faces greet you in the Great Barrier Reef. But the serenity doesn't last for long, as you're sent plunging to the deepest darkest depths, where a sunken submarine sits surrounded by voracious glowfish, jellyfish and sharks. At Crush's Coaster danger lurks. However, just in the nick of time, the strong East Australian Current churns you up and sends you spiralling back to Sydney Harbour to a rousing reception.\n\n<<youtube:5QA0uNogC7E>>\n\n###**Walt Disney Studios Park**\nWorlds of Pixar\n\n###**Guest Must Be**\n1.07 m\n\n###**Age Interest**\nKids, Tweens, Teens, Adults",
+          "members": [],
+          "labelsIds": ["YIQPhe", "oKpZV4", "DNfXVp"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641991731449.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n018313_2050jan01_crushs-coaster_16-9_tcm795-159058.jpg?w=1960",
+              "fileName": "n018313_2050jan01_crushs-coaster_16-9_tcm795-159058.jpg?w=1960",
+              "type": "image",
+              "suffix": "jpg?w=1960",
+              "id": "JpsGiyHG"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "F7C8PjoH",
+                "url": "https://media.disneylandparis.com/d4th/en-us/images/n018313_2050jan01_crushs-coaster_16-9_tcm795-159058.jpg?w=1960"
+              }
+            ],
+            "imgId": "F7C8PjoH"
+          },
+          "archiveAt": 0,
+          "id": "8Tp9Umjk"
+        },
+        {
+          "createdAt": 1641991765400.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "Visit Animation Academy",
+          "desc": "###The Animation Academy experience is subject to availability. A limited number of seats are available for each session.",
+          "members": [],
+          "labelsIds": ["JsY1qR"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641991789062.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n036114_2050dec31_world_animation-celebration-academy-children-drawings-audiovisuel-castmember_16-9_tcm795-227264.jpg?w=1960",
+              "fileName": "n036114_2050dec31_world_animation-celebration-academy-children-drawings-audiovisuel-castmember_16-9_tcm795-227264.jpg?w=1960",
+              "type": "image",
+              "suffix": "jpg?w=1960",
+              "id": "13wh4EDo"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#f2d600",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "XoWvh6Mf",
+                "url": "https://media.disneylandparis.com/d4th/en-us/images/n036114_2050dec31_world_animation-celebration-academy-children-drawings-audiovisuel-castmember_16-9_tcm795-227264.jpg?w=1960"
+              }
+            ],
+            "imgId": "XoWvh6Mf"
+          },
+          "archiveAt": 0,
+          "id": "BzL1NvuR"
+        },
+        {
+          "createdAt": 1641993359261.0,
+          "createdBy": {
+            "_id": "61b4d801c1d9389a63a75587",
+            "username": "zivtal",
+            "fullname": "Ziv Tal",
+            "imgUrl": "https://res.cloudinary.com/zivtal/image/upload/v1642060516/yohwgh1isrxhiyaucyfi.jpg"
+          },
+          "title": "The Twilight Zone Tower of Terror",
+          "desc": "###Are you brave enough to enter The Twilight Zone Tower of Terror and face its three hair-raising new horrors: The Malevolent Machine, The Shaft Creatures and The 5th Dimension? Prepare to scream your soul out as you plummet to darker depths than ever before. Mwah-ha-ha-ha-ha!\n\n<<youtube:3zo64_w0pyo>>\n\n##**Three new horrors to fall for**\n###**The Malevolent Machine**\nA little ghost girl haunts this elevator. But she is the least of your worries. Because as soon as you take your seat, this malevolent machine only has one thing in mind – to trap you in its mechanical prison and clank and screech with glee as it catapults you up and plummets you down at its wicked will.\nThe only thing you can do is hold tight. And scream!\n\n###**The Shaft Creatures**\n“They know you’re here. Whatever you do, don’t scream!” Some demonic creatures have control of the elevator and they’re preying on the cries of human souls – the louder your pleas for mercy, the more powerful they become. Can you stay silent while plummeting 13 unlucky floors at the speed of fright?\n\n###**The 5th Dimension**\nDon’t get lost in this dimension! A sinister spectre has opened the 5th dimension and wants to take your soul with it. Prepare to question everything you think is real as you’re dropped into a terrifying psychedelic journey between worlds.",
+          "members": [],
+          "labelsIds": ["YIQPhe", "DNfXVp", "oKpZV4"],
+          "checkList": [],
+          "dueDate": {
+            "date": null,
+            "isComplete": null,
+            "createdAt": null,
+            "completedAt": null
+          },
+          "attachments": [
+            {
+              "createdAt": 1641993453151.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n018354_2050jan01_the-twilight-zone-tower-of-terror-detail_16-9_tcm795-159360.jpg?w=640",
+              "fileName": "n018354_2050jan01_the-twilight-zone-tower-of-terror-detail_16-9_tcm795-159360.jpg?w=640",
+              "type": "image",
+              "suffix": "jpg?w=640",
+              "id": "qz1X6ye9"
+            },
+            {
+              "createdAt": 1641993496449.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n018360_2050jan01_the-twilight-zone-tower-of-terror_16-9_tcm795-159368.jpg?w=640",
+              "fileName": "n018360_2050jan01_the-twilight-zone-tower-of-terror_16-9_tcm795-159368.jpg?w=640",
+              "type": "image",
+              "suffix": "jpg?w=640",
+              "id": "bRt4WIcM"
+            },
+            {
+              "createdAt": 1641993508960.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n018350_2050jan01_the-twilight-zone-tower-of-terror-detail_16-9_tcm795-159411.jpg?w=640",
+              "fileName": "n018350_2050jan01_the-twilight-zone-tower-of-terror-detail_16-9_tcm795-159411.jpg?w=640",
+              "type": "image",
+              "suffix": "jpg?w=640",
+              "id": "5MQNRaOz"
+            },
+            {
+              "createdAt": 1641993518609.0,
+              "url": "https://media.disneylandparis.com/d4th/en-us/images/n018365_2050jan01_the-twilight-zone-tower-of-terror-detail_16-9_tcm795-160080.jpg?w=640",
+              "fileName": "n018365_2050jan01_the-twilight-zone-tower-of-terror-detail_16-9_tcm795-160080.jpg?w=640",
+              "type": "image",
+              "suffix": "jpg?w=640",
+              "id": "B5jcqCnf"
+            }
+          ],
+          "location": null,
+          "canvas": [],
+          "cover": {
+            "color": "#0b0b0b",
+            "isFull": true,
+            "imgs": [
+              {
+                "id": "0oeXDlOA",
+                "url": "https://images.unsplash.com/photo-1639172295587-d05b7cce63f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyODE5MzB8MHwxfHNlYXJjaHwxfHxUaGUlMjBUd2lsaWdodCUyMFpvbmUlMjBUb3dlciUyMG9mJTIwVGVycm9yfGVufDB8fHx8MTY0MTk5MzQ1Nw&ixlib=rb-1.2.1&q=80&w=400"
+              }
+            ],
+            "imgId": "0oeXDlOA"
+          },
+          "archiveAt": 0,
+          "id": "NM8UZ2DE"
+        }
+      ],
+      "style": {},
+      "id": "fZuZtkoz"
+    }
+  ],
+  "isReadonly": false,
+  "isDemoBoard": true,
+  "activityCount": 5,
+  "lastActivity": 1642461674778.0,
+  "isFavorite": true
+}

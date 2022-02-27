@@ -1,0 +1,141 @@
+.board-nav {
+  padding: 0px 4px 2px 5px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+
+  > * {
+    display: flex;
+  }
+
+  .btn {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #172b4d;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    border-radius: 3px;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .menu-left-btns {
+    align-items: center;
+    gap: 4px;
+    .board-modal-btn {
+      padding: 6px 5px;
+      span:first-child {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e942", "#172b4d", 16px);
+        }
+      }
+
+      span:last-child {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e923", "#172b4d", 16px);
+        }
+      }
+    }
+
+    .title {
+      h1 {
+        margin: 0;
+        padding: 0 12px;
+      }
+      .board-title {
+        background: transparent;
+        outline: none;
+        border: 0;
+        border-radius: 3px;
+        box-shadow: unset;
+        color: #222;
+        font-family: Roboto-regular;
+        font-size: 20px;
+        font-weight: 600;
+        height: 32px;
+        transition: box-shadow 0.3s;
+        padding: 2px 8px;
+        &:focus,
+        &:active {
+          background-color: transparent;
+          box-shadow: inset 0 0 0 2px #0079bf;
+          color: #222;
+        }
+      }
+    }
+
+    .star {
+      height: 32px;
+      width: 32px;
+      padding: 6px 10px;
+      span {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e965", "#172b4d", 16px);
+        }
+        &.unstar::before {
+          color: gold;
+        }
+      }
+    }
+  }
+
+  .menu-members-btns {
+    flex-grow: 1;
+    margin: 0 10px;
+    gap: 5px;
+    .invite-btn {
+      padding: 6px 12px;
+      span:first-child {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e902", "#172b4d", 16px);
+        }
+      }
+    }
+  }
+
+  .menu-right-btns {
+    gap: 5px;
+    .filter-btn {
+      padding: 6px 12px;
+      span:first-child {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e92d", "#172b4d", 16px);
+        }
+      }
+    }
+    .board-menu {
+      padding: 6px 12px;
+      span:first-child {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        &::before {
+          @include icon("\e951", "#172b4d", 16px);
+        }
+      }
+    }
+  }
+}
+
+.light-menu {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+}

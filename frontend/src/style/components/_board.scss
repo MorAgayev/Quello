@@ -1,0 +1,50 @@
+.board-fixed-container {
+  user-select: none;
+  position: fixed;
+  top: 0px;
+  min-height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 44px 28px 8px 28px;
+  background-position: 50%;
+}
+
+.board {
+  user-select: none;
+  white-space: nowrap;
+  background-position: 50%;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  &::-webkit-scrollbar {
+    height: 12px;
+    width: 12px;
+  }
+
+  &::-webkit-scrollbar-track {
+    border-radius: 50px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 50px;
+  }
+
+  &::-webkit-scrollbar-button {
+    width: 24px;
+    height: 4px;
+    display: block;
+  }
+
+  &::-webkit-scrollbar-track-piece {
+    background: #091e4214;
+  }
+
+  scrollbar::-webkit-scrollbar {
+    height: 12px;
+    width: 12px;
+  }
+}

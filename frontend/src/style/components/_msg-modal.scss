@@ -1,0 +1,125 @@
+$radius: 3px;
+
+.msg-modal {
+  font-size: 1rem;
+  user-select: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+  .window {
+    position: relative;
+    touch-action: none;
+    font-size: 1em;
+    background-color: $clr4;
+    margin: 0;
+    width: fit-content;
+    border-radius: $radius;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    animation: fadein 0.7s ease-in-out;
+    &.center {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    > div:not(.title, .buttons) {
+      max-height: calc(80vh - 10em);
+      overflow: hidden;
+      width: 100%;
+    }
+    // header
+    .title {
+      border-bottom: 1px solid #091e4221;
+      box-sizing: border-box;
+      color: #172b4d;
+      display: block;
+      line-height: 40px;
+      margin: 0 12px;
+      overflow: hidden;
+      padding: 0 32px;
+      position: relative;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      z-index: 1;
+      div.text {
+        position: relative;
+        top: -0.1em;
+        display: inline-block;
+        width: 100%;
+        margin-block-start: 0.1em;
+      }
+      // div.close {
+      //   display: inline-block;
+      //   position: relative;
+      //   left: 0.3em;
+      //   cursor: pointer;
+      //   background: none;
+      //   font-size: 1.625em;
+      //   font-weight: bold;
+      //   width: 2em;
+      //   height: 1em;
+      //   border: 0;
+      //   font-family: "Trebuchet MS", Helvetica, sans-serif;
+      // }
+      span::before {
+        font-family: trello;
+        content: "×";
+        font-size: 16px;
+      }
+    }
+    // message mode
+    .text {
+      width: 100%;
+      text-align: center;
+      margin-top: 0;
+      padding: 0 10px;
+      white-space: pre;
+      margin: 0 0 8px;
+      color: #172b4d;
+      font-size: 0.875em;
+      font-weight: 400;
+      line-height: 1.25em;
+    }
+    // buttons
+    .buttons {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      button {
+        flex-grow: 1;
+        cursor: pointer;
+        min-width: 8em;
+        padding: 0.5em;
+        border: 0;
+        transition: 0.5s;
+        opacity: 0.7;
+        margin: 0 6px 6px 10px;
+        border-radius: $radius;
+        &:focus,
+        &:hover {
+          opacity: 1;
+        }
+        &.delete-btn {
+          color: white;
+          background-color: #b04632;
+          &:hover {
+            background-color: #933b27;
+          }
+        }
+      }
+    }
+  }
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
